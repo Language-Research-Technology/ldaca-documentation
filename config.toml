@@ -337,59 +337,35 @@ enableRobotsTXT = true
     url = "/"
     weight = 1
   [[menu.main]]
-<<<<<<< HEAD
-    identifier = "accessing-data"
-    name = "Accessing Data"
-    url = "/accessing-data/"
-    weight = 4
-  [[menu.main]]
     identifier = "getting-started"
     name = "Getting Started"
     url = "/getting-started/"
-=======
-    identifier = "background_information"
-    name = "Background"
-    url = "/background/information/"
->>>>>>> 8735a0323f9489904156345cd7bd52a1830b8a6c
     weight = 2
   [[menu.main]]
     identifier = "browsing-searching"
     name = "Browsing and Searching"
     url = "/browsing-searching/"
-    weight = 3   
+    weight = 3
   [[menu.main]]
-<<<<<<< HEAD
-    identifier = "other-resources"
-    name = "Other Resources"
-    url = "/other-resources/"
-    weight = 5
-=======
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
+    identifier = "accessing-data"
+    name = "Accessing Data"
+    url = "/accessing-data/"
     weight = 4
-  [[menu.main]]
-    identifier = "events"
-    name = "Events"
-    url = "/events/events"
-    weight = 5
-  [[menu.main]]
-    identifier = "organisation"
-    name = "Organisation"
-    url = "/organisation/"
-    weight = 6
->>>>>>> 8735a0323f9489904156345cd7bd52a1830b8a6c
   [[menu.main]]
     identifier = "faqs"
     name = "FAQs"
     url = "/faqs/"
+    weight = 5
+  [[menu.main]]
+    identifier = "other-resources"
+    name = "Other Resources"
+    url = "/other-resources/"
     weight = 6
   [[menu.main]]
     identifier = "contact"
     name = "Contact us"
     url = "/contact/"
-    weight = 7    
-
+    weight = 7
     #  Search config
   [params.search]
     enable = true

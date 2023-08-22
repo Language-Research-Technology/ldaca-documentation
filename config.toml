@@ -1,4 +1,4 @@
-baseURL = 'http://www.ldaca.edu.au/'
+baseURL = 'http://docs.ldaca.edu.au/'
 languageCode = 'en-us'
 title = 'LDaCA'
 theme = "LoveIt"

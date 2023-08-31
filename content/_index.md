@@ -7,23 +7,23 @@ These pages are intended to assist users of the data portals provided by the Lan
 
 The menu above shows the categories into which information is grouped:
 
-### Getting Started
+### [Getting Started](/getting-started)
 
 Basic information for a first time user. {{<raw>}}<a href="/getting-started"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 
-### Browsing and Searching
+### [Browsing and Searching](/browsing-searching)
 
 How to find the data you want. {{<raw>}}<a href="/browsing-searching"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 
-### Accessing Data
+### [Accessing Data](/accessing-data)
 
 How to access data once you have found it. {{<raw>}}<a href="/accessing-data"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 
-### Other Resources
+### [Other Resources](/other-resources)
 
 Links to other resources such as videos. {{<raw>}}<a href="/other-resources"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 
-### FAQs
+### [FAQs](/faqs)
 
 Frequently Asked Questions. {{<raw>}}<a href="/faqs"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 

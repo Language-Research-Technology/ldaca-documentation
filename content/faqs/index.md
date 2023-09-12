@@ -52,14 +52,14 @@ draft: false
         <li>Findable</li>
         <li>Accessible</li>
         <li>Interoperable</li>
-        <li>Reuseable</li>
+        <li>Reusable</li>
     </ul>
     <p>
         According to the CARE principles, developed by the Global Indigenous Data Alliance, our use of data should be guided by considering:
     </p>
     <ul>
         <li>Collective Benefit</li>
-        <li>Authoruty to Control</li>
+        <li>Authority to Control</li>
         <li>Responsibility</li>
         <li>Ethics</li>
     </ul>

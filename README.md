@@ -1,6 +1,6 @@
 ## About
 
-This is the source repository for an LDaCA based website (changes)
+This is the source repository for an LDaCA based website
 
 # Prerequisites
 

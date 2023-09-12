@@ -19,9 +19,9 @@ How to find the data you want. {{<raw>}}<a href="/browsing-searching"><i class="
 
 How to access data once you have found it. {{<raw>}}<a href="/accessing-data"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 
-### [Other Resources](/other-resources)
+### [Other Resources](/other-resources/other-resources)
 
-Links to other resources such as videos. {{<raw>}}<a href="/other-resources"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
+Links to other resources such as videos. {{<raw>}}<a href="/other-resources/other-resources"><i class="fa-solid fa-chevron-right"></i></a>{{</raw>}}
 
 ### [FAQs](/faqs)
 

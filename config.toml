@@ -366,6 +366,11 @@ enableRobotsTXT = true
     name = "Contact us"
     url = "/contact/"
     weight = 7
+      [[menu.main]]
+    identifier = "using-ldaca"
+    name = "Using LDaCA"
+    url = "/using-ldaca/"
+    weight = 8
     #  Search config
   [params.search]
     enable = true

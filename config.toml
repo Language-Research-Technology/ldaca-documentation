@@ -362,16 +362,17 @@ enableRobotsTXT = true
     url = "/other-resources/"
     weight = 6
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact us"
-    url = "/contact/"
-    weight = 7
-      [[menu.main]]
     identifier = "using-ldaca"
     name = "Using LDaCA"
     url = "/using-ldaca/"
+    weight = 7
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact us"
+    url = "/contact/"
     weight = 8
-    #  Search config
+
+#  Search config
   [params.search]
     enable = true
     # type of search engine ("lunr", "algolia")

@@ -2,6 +2,7 @@
 title: "Guidance for Data Governance Decisions"
 draft: false
 ---
+
 <br>
 
 ## Purpose
@@ -12,31 +13,35 @@ This document provides guidance on some components of data governance that are k
 
 <br>
 
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
 > In each section, you will find a thought bubble marking some questions for reflection that will help you start to explore these data governance topics. This content is designed as guidance for Data Stewards considering how to manage their data into the future.
-TODO: add image
 
 <br>
 
 #### [1. Access Conditions](#1-access-conditions)
-* #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints)
-* #### [1.2 Licensing](#12-licensing)
+
+- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints)
+- #### [1.2 Licensing](#12-licensing)
+
 #### [2. Persistent Identifiers](#2-persistent-identifiers)
+
 #### [3. Metadata](#3-metadata)
+
 #### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright)
 
 <br>
 
-Key Terms | Description
---- | ---
-CARE Principles<br/>(Collective benefit, Authority to Control, Responsibility, Ethics) | Four key principles that describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. Though developed specifically with Indigenous Peoples in mind, the principles are applicable more generally.
-FAIR Principles<br/>(Findable, Accessible, Interoperable, Reusable) | Four key principles addressing data management and stewardship, developed in 2016 with the aim of supporting the discovery and reuse of research data.
-Data collection | A set of data collected under similar conditions and brought together in a shared framework.
-Data governance | The policies and processes by which data is managed through its life cycle to ensure the quality, reliability, security, and sustainability of the data.
-Data Steward | An individual or organisation with the authority to make decisions regarding the named data collection. In some cases, the Data Steward may also be the copyright owner.
-Data management plan | A data management plan is a document that (1) outlines key information about a research project and its data, including the access conditions and ownership, storage, and future use and (2) sets out roles and responsibilities in its management.
-Intellectual Property | Creations of the mind, such as inventions, designs, and literary and artistic works. As a way of promoting creative endeavours, legal mechanisms such as copyright, patents and trademarks provide economic and non-economic rights to the creators of such works.
-Licensing | A process that allows the copyright owner to share the right to access and use the data without reassigning the ownership of the copyright of the work. A license for a data collection establishes the conditions for who can access, share and reuse the data, and other conditions as required.
-Creative Commons licenses | A set of licenses that allow for data reusability under specified conditions re attribution, data sharing, commercialisation, data adaptation.
+| Key Terms                                                                              | Description                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CARE Principles<br/>(Collective benefit, Authority to Control, Responsibility, Ethics) | Four key principles that describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. Though developed specifically with Indigenous Peoples in mind, the principles are applicable more generally.                                            |
+| FAIR Principles<br/>(Findable, Accessible, Interoperable, Reusable)                    | Four key principles addressing data management and stewardship, developed in 2016 with the aim of supporting the discovery and reuse of research data.                                                                                                                                             |
+| Data collection                                                                        | A set of data collected under similar conditions and brought together in a shared framework.                                                                                                                                                                                                       |
+| Data governance                                                                        | The policies and processes by which data is managed through its life cycle to ensure the quality, reliability, security, and sustainability of the data.                                                                                                                                           |
+| Data Steward                                                                           | An individual or organisation with the authority to make decisions regarding the named data collection. In some cases, the Data Steward may also be the copyright owner.                                                                                                                           |
+| Data management plan                                                                   | A data management plan is a document that (1) outlines key information about a research project and its data, including the access conditions and ownership, storage, and future use and (2) sets out roles and responsibilities in its management.                                                |
+| Intellectual Property                                                                  | Creations of the mind, such as inventions, designs, and literary and artistic works. As a way of promoting creative endeavours, legal mechanisms such as copyright, patents and trademarks provide economic and non-economic rights to the creators of such works.                                 |
+| Licensing                                                                              | A process that allows the copyright owner to share the right to access and use the data without reassigning the ownership of the copyright of the work. A license for a data collection establishes the conditions for who can access, share and reuse the data, and other conditions as required. |
+| Creative Commons licenses                                                              | A set of licenses that allow for data reusability under specified conditions re attribution, data sharing, commercialisation, data adaptation.                                                                                                                                                     |
 
 <br>
 
@@ -45,6 +50,7 @@ Creative Commons licenses | A set of licenses that allow for data reusability un
 Access conditions refer to who can access data and what use is permitted. Defining specific conditions for access supports data reusability and the advancement of the scientific endeavour; it also protects the data from misuse.
 
 To determine access conditions, the Data Steward must:
+
 1. understand the legal, moral, and ethical constraints to sharing data, and
 2. prepare a license outlining access conditions.
 
@@ -61,14 +67,14 @@ In Australia, as in many other countries, research data is recognised as Intelle
 Copyright protects expressions of ideas in works such as books, music, paintings, films, and performative acts such as speech, sign and gesture, etc., and therefore also data collections. The creator of the work is known as the copyright owner.
 
 Copyright provides two types of rights:
-* __Economic rights__: The owner has the exclusive right to reproduce, publish, perform, communicate, and adapt or modify their work, for both commercial and non-commercial purposes. This right can be transferred or shared with others via assignment or licensing.
-* __Moral rights__: The work must be correctly attributed and not treated in a derogatory manner. This protects the integrity of the work. Moral rights cannot be transferred or shared.
+
+- **Economic rights**: The owner has the exclusive right to reproduce, publish, perform, communicate, and adapt or modify their work, for both commercial and non-commercial purposes. This right can be transferred or shared with others via assignment or licensing.
+- **Moral rights**: The work must be correctly attributed and not treated in a derogatory manner. This protects the integrity of the work. Moral rights cannot be transferred or shared.
 
 <br>
 
-> __Questions for reflection:__<br>
-How can I identify the copyright owner of a language collection?
-TODO: add image
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> How can I identify the copyright owner of a language collection?
 
 <br>
 
@@ -80,18 +86,18 @@ The copyright owner of a language collection can be identified by considering th
 
 <br>
 
-Question | Further Information
----|---
-Does the collection comprise materials all collected under the same conditions? (e.g., as part of the same research project)<ul><li>Yes<li>No | If the collection includes material from a third party, the copyright owner and copyright status should be identified for each subset of the collection.
-Has the copyright owner been determined by a contract, formal agreement, or other relevant document?<ul><li>Yes<li>No | In some cases, existing contracts or agreements will assign copyright ownership in advance. This will take precedence over the rules set out in the Copyright Act.
-What type of material is included in the collection?<ul><li>Textual work<li>Musical work<li>Dramatic work<li>Computer program<li>Artistic work<li>Film or video<li>Sound recordings | Generally, the author of a textual work, musical work, dramatic work, computer program or artistic work (i.e., the person who created the work) is the first owner of copyright.<br>However, the general rules for films, videos and sound recordings are different.<ul><li>For sound recordings, copyright is owned by the ‘maker’ of the sound recording, typically the person or company who owns the recording equipment.<li>For film and video, copyright is owned by the person or company which made the arrangements for the creation of the work.</li></ul>In the academic context, this is typically the university where the research was conducted.
-Was the material created by an employee in the course of their employment?<ul><li>Yes<li>No | When the work was created by an employee as part of their usual work duties, the employer is the copyright owner (unless there is a specific employment agreement that specifies otherwise).
-Is the work a performance?<ul><li>Yes<li>No | Performers’ rights apply to live performances including dramatic works, musical works, dances, circus acts, expressions of folklore, readings, and recitations of existing or improved literary works recorded or filmed with or without an audience. Permission must be sought to record the live performance, and to broadcast and distribute recordings.<br/>As of 1 January 2005, performers co-own copyright in sound recordings of their performances. There are exceptions for commissioned recordings, or those made by an employee.
+| Question                                                                                                                                                                            | Further Information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Does the collection comprise materials all collected under the same conditions? (e.g., as part of the same research project)<ul><li>Yes<li>No                                       | If the collection includes material from a third party, the copyright owner and copyright status should be identified for each subset of the collection.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Has the copyright owner been determined by a contract, formal agreement, or other relevant document?<ul><li>Yes<li>No                                                               | In some cases, existing contracts or agreements will assign copyright ownership in advance. This will take precedence over the rules set out in the Copyright Act.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| What type of material is included in the collection?<ul><li>Textual work<li>Musical work<li>Dramatic work<li>Computer program<li>Artistic work<li>Film or video<li>Sound recordings | Generally, the author of a textual work, musical work, dramatic work, computer program or artistic work (i.e., the person who created the work) is the first owner of copyright.<br>However, the general rules for films, videos and sound recordings are different.<ul><li>For sound recordings, copyright is owned by the ‘maker’ of the sound recording, typically the person or company who owns the recording equipment.<li>For film and video, copyright is owned by the person or company which made the arrangements for the creation of the work.</li></ul>In the academic context, this is typically the university where the research was conducted. |
+| Was the material created by an employee in the course of their employment?<ul><li>Yes<li>No                                                                                         | When the work was created by an employee as part of their usual work duties, the employer is the copyright owner (unless there is a specific employment agreement that specifies otherwise).                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Is the work a performance?<ul><li>Yes<li>No                                                                                                                                         | Performers’ rights apply to live performances including dramatic works, musical works, dances, circus acts, expressions of folklore, readings, and recitations of existing or improved literary works recorded or filmed with or without an audience. Permission must be sought to record the live performance, and to broadcast and distribute recordings.<br/>As of 1 January 2005, performers co-own copyright in sound recordings of their performances. There are exceptions for commissioned recordings, or those made by an employee.                                                                                                                    |
 
 <br>
 
-> __Questions for reflection:__<br>
-Does copyright apply to this language collection?
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> Does copyright apply to this language collection?
 
 <br>
 
@@ -101,12 +107,12 @@ To understand how copyright might apply to a collection, the Data Steward should
 
 <br>
 
-Question | Further Information
----|---
-What type of works are included in the collection?<ul><li>Works (literary works, dramatic works, music, artistic works)<li>Subject matter other than works (sound recordings, performances, films, broadcasts) | Copyright protects two broad categories of intellectual property:<ul><li>Works<ul><li>Literary works (books, magazine articles, poetry, etc.)<li>Dramatic works (dance, plays, etc.)<li>Music (scores, songs, etc.)<li>Artistic works (paintings, drawings, etc.)</ul><li>Subject matter other than works<ul><li>Sound recordings (recordings of interviews, conversations, oral histories, songs; live performances, songs, podcasts, etc.)<li>Films (documentaries, television programs, animations, etc.)
-When was the material created?<ul><li>Year: | This information will be key to determining the duration of the copyright.
-When was the material first made public?<ul><li>Year:<li>Never made public | "Made public" means communicated, published, performed in public or sold to the public. The timing of the publication of the materials is key to the duration of copyright for sound recordings or films, as the laws have changed (see Appendix).
-Where was the material made? | Australian copyright law applies to any use or sharing of material within Australia, even if the copyright owner is from outside of Australia.
+| Question                                                                                                                                                                                                       | Further Information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| What type of works are included in the collection?<ul><li>Works (literary works, dramatic works, music, artistic works)<li>Subject matter other than works (sound recordings, performances, films, broadcasts) | Copyright protects two broad categories of intellectual property:<ul><li>Works<ul><li>Literary works (books, magazine articles, poetry, etc.)<li>Dramatic works (dance, plays, etc.)<li>Music (scores, songs, etc.)<li>Artistic works (paintings, drawings, etc.)</ul><li>Subject matter other than works<ul><li>Sound recordings (recordings of interviews, conversations, oral histories, songs; live performances, songs, podcasts, etc.)<li>Films (documentaries, television programs, animations, etc.) |
+| When was the material created?<ul><li>Year:                                                                                                                                                                    | This information will be key to determining the duration of the copyright.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| When was the material first made public?<ul><li>Year:<li>Never made public                                                                                                                                     | "Made public" means communicated, published, performed in public or sold to the public. The timing of the publication of the materials is key to the duration of copyright for sound recordings or films, as the laws have changed (see Appendix).                                                                                                                                                                                                                                                           |
+| Where was the material made?                                                                                                                                                                                   | Australian copyright law applies to any use or sharing of material within Australia, even if the copyright owner is from outside of Australia.                                                                                                                                                                                                                                                                                                                                                               |
 
 <br>
 
@@ -114,18 +120,20 @@ Once this information has been confirmed, calculate the duration of copyright us
 
 <br>
 
-__Find out more about copyright, intellectual property and licensing:__<br>
-* What is Intellectual Property? World Intellectual Property Organisation: https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf<br>
-* Fact sheets, Arts Law Centre of Australia:
-    * Copyright Information sheet: https://www.artslaw.com.au/information-sheet/copyright/<br>
-    * Duration of Copyright: https://www.copyright.org.au/browse/book/ACC-Duration-of-Copyright-INFO023<br>
-    * Performers’ Rights: https://www.artslaw.com.au/information-sheet/performers-rights/<br>
-    * Licensing: https://www.artslaw.com.au/information-sheet/licensing-aitb/
+**Find out more about copyright, intellectual property and licensing:**<br>
 
-* Fact sheets, Australian Copyright Council: https://www.copyright.org.au/resources<br>
-* Types of IP, IP Australia: https://www.ipaustralia.gov.au/understanding-ip/types-of-ip<br>
-* Fact sheet: Intellectual Property – Basics, The University of Queensland: https://staff.uq.edu.au/files/33574/legal-services-fact-sheet-ip-basics.pdf<br>
-* What are the Creative Commons licenses? Creative Commons Australia: https://creativecommons.org.au/learn/fact-sheets/what-are-the-cc-licences/
+- What is Intellectual Property? World Intellectual Property Organisation: https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf<br>
+- Fact sheets, Arts Law Centre of Australia:
+
+  - Copyright Information sheet: https://www.artslaw.com.au/information-sheet/copyright/<br>
+  - Duration of Copyright: https://www.copyright.org.au/browse/book/ACC-Duration-of-Copyright-INFO023<br>
+  - Performers’ Rights: https://www.artslaw.com.au/information-sheet/performers-rights/<br>
+  - Licensing: https://www.artslaw.com.au/information-sheet/licensing-aitb/
+
+- Fact sheets, Australian Copyright Council: https://www.copyright.org.au/resources<br>
+- Types of IP, IP Australia: https://www.ipaustralia.gov.au/understanding-ip/types-of-ip<br>
+- Fact sheet: Intellectual Property – Basics, The University of Queensland: https://staff.uq.edu.au/files/33574/legal-services-fact-sheet-ip-basics.pdf<br>
+- What are the Creative Commons licenses? Creative Commons Australia: https://creativecommons.org.au/learn/fact-sheets/what-are-the-cc-licences/
 
 <br>
 
@@ -136,9 +144,10 @@ In addition to the legal constraint determined by copyright, it is important to 
 Research ethics set shared standards for research processes that uphold and promote important values such as trust, accountability, human rights, and social responsibility, among others, in the pursuit of knowledge and truth.
 
 In Australia, research ethics are defined in key frameworks such as:<br>
-* [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018)
-* [National Statement on Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018)
-* [AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Researcher](https://aiatsis.gov.au/sites/default/files/2020-10/aiatsis-code-ethics.pdf)
+
+- [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018)
+- [National Statement on Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018)
+- [AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Researcher](https://aiatsis.gov.au/sites/default/files/2020-10/aiatsis-code-ethics.pdf)
 
 Research carried out in Australian universities and similar institutions using public funds and involving human participants must be approved by Human Research Ethics Committees (HRECs). Research ethics proposals outline the conditions for collecting, analysing, sharing, managing, and potentially disposing of research data. A review of the research ethics proposal under which the data was collected and other relevant documents, such as grant agreements, is necessary when determining data access conditions for a collection.
 
@@ -151,6 +160,7 @@ While ethical constraints are often binding, several international frameworks ha
 The FAIR principles provide a set of standards for data management that facilitates continued knowledge discovery and innovation.
 
 In brief, the four principles are:
+
 1. Findability: Data is easily findable, via persistent identifiers and rich metadata.
 2. Accessibility: Access conditions are clearly defined, and protocols are developed to facilitate authentication and authorisation.
 3. Interoperability: Data can be integrated with other data and applications, through standard data formats and compatible metadata vocabularies.
@@ -163,6 +173,7 @@ In brief, the four principles are:
 The CARE Principles for Indigenous Data Governance provide guidelines with the aim of balancing the protection of Indigenous rights and interests and supporting data sharing and reuse. Though designed with consideration specifically for Indigenous communities these are important principles to bear in mind for all language collections.
 
 In brief, the four principles are:
+
 1. Collective benefit: Data sharing provides a collective benefit for Indigenous Peoples in terms of inclusive development and innovation, improved governance and citizen engagement and the achievement of equitable outcomes.
 2. Authority to control: Indigenous Peoples have the authority to control and govern data.
 3. Responsibility: Those working with Indigenous data have a responsibility to nurture respectful relationships with the communities from which the data originates.
@@ -170,27 +181,28 @@ In brief, the four principles are:
 
 <br>
 
-> __Questions for reflection:__<br>
-What ethical and moral questions need to be considered before sharing this collection?
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> What ethical and moral questions need to be considered before sharing this collection?
 
 <br>
 
-Question | Further Information
----|---
-Does the research ethics proposal (or other relevant documents such as a grant agreement) include data sharing constraints?<ul><li>Yes<li>No | What are the conditions for data management and sharing?<br>List the additional constraints which data access must adhere to as they appear in the project / collection documentation.
-How is participant consent considered in the governance decisions? | Consider the following questions.<ul><li>Was informed participant consent documented during data collection?<li>Are there specific constraints for sharing data? In what format? With which audience?<li>Is there a risk of harm, discomfort or inconvenience to the participants by making the data available? (e.g. will public access to the data run the risk of amplifying existing negative stereotypes about the participant or the social group(s) they are identified with, will their personal information be easily deduced/tracked in any way, etc.)<li>What is the protocol for de-identification and the expectations of the participants? Have these been met?
-Are the FAIR principles being upheld?<ul><li>Yes<li>No | Consider some more specific questions:<ul><li>Does the collection have a persistent identifier?<li>Are access conditions clearly defined?<li>Are the data formats widely compatible?<li>Is the metadata detailed and well-described?<li>Is the metadata searchable?<li>Does the metadata use a common metadata schema / vocabulary?<li>How has the collection been used previously?<li>Is there a record of publications and research findings that have used the collection?
-Have the CARE principles been considered and implemented?<ul><li>Yes<li>No | Consider some more specific questions:<ul><li>How have communities or individuals been involved in data management?<li>How do participants and their communities benefit collectively from the sharing of this data?<li>Do participants and their communities have the authority to make decisions about the governance of the collection?<li>Are relationships with participants and their communities being nurtured?<li>Are the rights and wellbeing of participants and their communities prioritised?<li>Does the data governance plan consider the role of participants and their communities?<li>Does the use of the data reflect community values?<li>What cultural meanings of sensitive content are relevant?
+| Question                                                                                                                                     | Further Information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Does the research ethics proposal (or other relevant documents such as a grant agreement) include data sharing constraints?<ul><li>Yes<li>No | What are the conditions for data management and sharing?<br>List the additional constraints which data access must adhere to as they appear in the project / collection documentation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| How is participant consent considered in the governance decisions?                                                                           | Consider the following questions.<ul><li>Was informed participant consent documented during data collection?<li>Are there specific constraints for sharing data? In what format? With which audience?<li>Is there a risk of harm, discomfort or inconvenience to the participants by making the data available? (e.g. will public access to the data run the risk of amplifying existing negative stereotypes about the participant or the social group(s) they are identified with, will their personal information be easily deduced/tracked in any way, etc.)<li>What is the protocol for de-identification and the expectations of the participants? Have these been met?                                           |
+| Are the FAIR principles being upheld?<ul><li>Yes<li>No                                                                                       | Consider some more specific questions:<ul><li>Does the collection have a persistent identifier?<li>Are access conditions clearly defined?<li>Are the data formats widely compatible?<li>Is the metadata detailed and well-described?<li>Is the metadata searchable?<li>Does the metadata use a common metadata schema / vocabulary?<li>How has the collection been used previously?<li>Is there a record of publications and research findings that have used the collection?                                                                                                                                                                                                                                           |
+| Have the CARE principles been considered and implemented?<ul><li>Yes<li>No                                                                   | Consider some more specific questions:<ul><li>How have communities or individuals been involved in data management?<li>How do participants and their communities benefit collectively from the sharing of this data?<li>Do participants and their communities have the authority to make decisions about the governance of the collection?<li>Are relationships with participants and their communities being nurtured?<li>Are the rights and wellbeing of participants and their communities prioritised?<li>Does the data governance plan consider the role of participants and their communities?<li>Does the use of the data reflect community values?<li>What cultural meanings of sensitive content are relevant? |
 
 <br>
 
-__Find out more about FAIR and CARE:__
-* CARE Principles for Indigenous Data Governance, Global Indigenous Data Alliance: https://ardc.edu.au/resource/the-care-principles/
-* CARE Principles, Australian Research Data Commons: https://ardc.edu.au/resource/the-care-principles/
-* Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19(1), 43.DOI: https://doi.org/10.5334/dsj-2020-043
-* FAIR Data, Australian Research Data Commons: https://ardc.edu.au/resource/fair-data/
-* FAIR Principles. Go Fair: https://www.go-fair.org/fair-principles/
-* Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018. https://doi.org/10.1038/sdata.2016.18
+**Find out more about FAIR and CARE:**
+
+- CARE Principles for Indigenous Data Governance, Global Indigenous Data Alliance: https://ardc.edu.au/resource/the-care-principles/
+- CARE Principles, Australian Research Data Commons: https://ardc.edu.au/resource/the-care-principles/
+- Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19(1), 43.DOI: https://doi.org/10.5334/dsj-2020-043
+- FAIR Data, Australian Research Data Commons: https://ardc.edu.au/resource/fair-data/
+- FAIR Principles. Go Fair: https://www.go-fair.org/fair-principles/
+- Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018. https://doi.org/10.1038/sdata.2016.18
 
 <br>
 
@@ -204,18 +216,18 @@ Licensing allows the copyright owner to share the right to access and use the da
 
 <br>
 
-> __Questions for reflection:__<br>
-Is there an existing data license?
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> Is there an existing data license?
 
 <br>
 
-Question | Further Information
----|---
-Is there an existing license outlining the access conditions?<ul><li>Yes<li>No | If the collection has already been made available, a license may have already been prepared. Avoid duplicating previous work by checking this first.<br>Although it is best practice to have a single license attached to a collection, multiple licenses can exist as long as they are non-exclusive.
+| Question                                                                       | Further Information                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Is there an existing license outlining the access conditions?<ul><li>Yes<li>No | If the collection has already been made available, a license may have already been prepared. Avoid duplicating previous work by checking this first.<br>Although it is best practice to have a single license attached to a collection, multiple licenses can exist as long as they are non-exclusive. |
 
 <br>
 
-__Figure: Key parts of a data license:__
+**Figure: Key parts of a data license:**
 
 <br>
 
@@ -223,34 +235,36 @@ __Figure: Key parts of a data license:__
 
 <br>
 
-> __Questions for reflection:__<br>
-What information needs to be included in the license?
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> What information needs to be included in the license?
 
 <br>
 
-Question | Further Information
----|---
-What are the __parties__ relevant to this license? | Who is the author of the material?<br>Who is the copyright owner?<br>Is access managed by a Data Steward?<br>Which individuals or groups are permitted access to the material?<br>Who is the Licensor (copyright owner) and Licensee?
-What __materials__ are covered by the license? | Does this license cover the entire collection or a subset of the material?
-Is this an __exclusive__ or __non-exclusive__ license? | Does this license grant an individual or group exclusive rights to use and share the material?<br>If yes, this is an exclusive license.
-Describe the __rights__ that are being transferred to the licensee. | What rights are being transferred?<br>Can the material be modified? For what purpose?<br>Can the material be shared? Under what conditions?
-Does this collection include __sensitive information__? | Does the material include personal information?<br>What is the protocol for ensuring participant privacy?<br>What are the responsibilities of the licensee?
-What are the requirements surrounding __citation__? | How should the material be correctly attributed?<br>What is the suggested citation for the collection?
-Under which __region__ is the license legally binding? | Is the license limited to a specific geographical region?
-Other considerations | How long will the license be valid?<br>Does it expire after a specific period of time?<br>Is the licensee required to pay a fee? How is the fee processed?<br>Under what conditions can the license be terminated?<br>How will disputes be resolved?
+| Question                                                            | Further Information                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What are the **parties** relevant to this license?                  | Who is the author of the material?<br>Who is the copyright owner?<br>Is access managed by a Data Steward?<br>Which individuals or groups are permitted access to the material?<br>Who is the Licensor (copyright owner) and Licensee?                |
+| What **materials** are covered by the license?                      | Does this license cover the entire collection or a subset of the material?                                                                                                                                                                           |
+| Is this an **exclusive** or **non-exclusive** license?              | Does this license grant an individual or group exclusive rights to use and share the material?<br>If yes, this is an exclusive license.                                                                                                              |
+| Describe the **rights** that are being transferred to the licensee. | What rights are being transferred?<br>Can the material be modified? For what purpose?<br>Can the material be shared? Under what conditions?                                                                                                          |
+| Does this collection include **sensitive information**?             | Does the material include personal information?<br>What is the protocol for ensuring participant privacy?<br>What are the responsibilities of the licensee?                                                                                          |
+| What are the requirements surrounding **citation**?                 | How should the material be correctly attributed?<br>What is the suggested citation for the collection?                                                                                                                                               |
+| Under which **region** is the license legally binding?              | Is the license limited to a specific geographical region?                                                                                                                                                                                            |
+| Other considerations                                                | How long will the license be valid?<br>Does it expire after a specific period of time?<br>Is the licensee required to pay a fee? How is the fee processed?<br>Under what conditions can the license be terminated?<br>How will disputes be resolved? |
 
 <br>
 
 While in some cases it may be necessary to write a custom data license, for other collections it may be possible to apply an already-existing license, such as a Creative Commons license. Creative Commons provides a useful option for promoting data reusability while protecting key access conditions.
 
 The Creative Commons licenses combine four main elements in different ways:
-* BY - Attribution: This is a requirement for all Creative Commons licenses. The original creator must always be attributed.
-* SA - Share-Alike: Data can only be shared under identical license terms.
-* NC - Non-Commercial: Only non-commercial use of the data is permitted.
-* ND - No Derivatives: Material can be copied and distributed in the original form only and cannot be adapted.
+
+- BY - Attribution: This is a requirement for all Creative Commons licenses. The original creator must always be attributed.
+- SA - Share-Alike: Data can only be shared under identical license terms.
+- NC - Non-Commercial: Only non-commercial use of the data is permitted.
+- ND - No Derivatives: Material can be copied and distributed in the original form only and cannot be adapted.
 
 A copyright owner may also choose to waive their rights and make data available in the public domain before the duration of the copyright has expired. Creative Commons provides a relevant tool for documenting this decision:
-* [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/): A copyright owner opts out of copyright and waives their exclusive rights. The material is placed in the public domain before the copyright duration has expired.
+
+- [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/): A copyright owner opts out of copyright and waives their exclusive rights. The material is placed in the public domain before the copyright duration has expired.
 
 <br>
 
@@ -266,26 +280,26 @@ An example of a DOI for a data collection (obtained via the university library) 
 
 <br>
 
-> __Questions for reflection:__<br>
-Who can get a DOI? How?
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> Who can get a DOI? How?
 
 <br>
 
-Question | Further Information
----|---
-Does the collection have an existing PID?<ul><li>Yes<li>No | Investigate whether the collection already has an existing PID as this is sometimes automatically generated when the collection is listed or archived with an archive or library. 
-Who can generate a DOI for the collection? | The most common DOI minting services are universities, research organisations, research libraries and research repositories.<br>You can make enquiries with your university library or the research repository of the organisation that supported the data collection.
+| Question                                                   | Further Information                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Does the collection have an existing PID?<ul><li>Yes<li>No | Investigate whether the collection already has an existing PID as this is sometimes automatically generated when the collection is listed or archived with an archive or library.                                                                                      |
+| Who can generate a DOI for the collection?                 | The most common DOI minting services are universities, research organisations, research libraries and research repositories.<br>You can make enquiries with your university library or the research repository of the organisation that supported the data collection. |
 
 <br>
 
-__Find out more about PIDs:__<br>
+**Find out more about PIDs:**<br>
 Klump, J. and Huber, R., 2017. 20 Years of Persistent Identifiers – Which Systems are Here to Stay?. Data Science Journal, 16, p.9. DOI: http://doi.org/10.5334/dsj-2017-009
 
 <br>
 
 ## 3. Metadata
 
-Metadata is data about data — information that describes the data collection as a whole; provides the context and conditions under which the data was collected, can be stored, shared and used; and the characteristics of the format, duration or size of data making up the collection; and includes socio-demographic details of participants. 
+Metadata is data about data — information that describes the data collection as a whole; provides the context and conditions under which the data was collected, can be stored, shared and used; and the characteristics of the format, duration or size of data making up the collection; and includes socio-demographic details of participants.
 
 Standardised metadata allows data to be more easily found and understood, to be compared, and grouped with other similar objects.
 
@@ -298,14 +312,14 @@ Where a customised metadata strategy is used, metadata terms should be clearly d
 
 <br>
 
-> __Questions for reflection:__<br>
-What does it mean to apply standards to metadata?
+> ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
+> What does it mean to apply standards to metadata?
 
 <br>
 
-Question | Further Information
----|---
-Does the collection use metadata terms from an existing metadata vocabulary?<ul><li>Yes<li>No | If the collection uses customised metadata terms (i.e. not an existing metadata vocabulary), consider mapping the relationships between the custom system and an existing metadata vocabulary. This will facilitate findability as the metadata aligns with standards used in the research community. 
+| Question                                                                                      | Further Information                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Does the collection use metadata terms from an existing metadata vocabulary?<ul><li>Yes<li>No | If the collection uses customised metadata terms (i.e. not an existing metadata vocabulary), consider mapping the relationships between the custom system and an existing metadata vocabulary. This will facilitate findability as the metadata aligns with standards used in the research community. |
 
 <br>
 
@@ -317,7 +331,8 @@ Select the correct table for works and subject matter other than works.
 
 <br>
 
-__Works:__
+**Works:**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
@@ -326,7 +341,7 @@ __Works:__
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" >
 <thead>
   <tr>
     <th class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:underline">Step 1</span><span style="font-weight:400;font-style:normal;text-decoration:none">: Is the author known?</span></th>
@@ -362,11 +377,12 @@ __Works:__
 </tbody>
 </table>
 
-*Different copyright duration applies to works for which the author is unknown.
+\*Different copyright duration applies to works for which the author is unknown.
 
 <br>
 
-__Subject matter other than works: sound recordings, films and videos__
+**Subject matter other than works: sound recordings, films and videos**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;

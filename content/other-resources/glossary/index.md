@@ -74,7 +74,7 @@ LDaCA is a language data commons serving researchers and community groups that a
     </tr>
     <tr>
         <td><b>Describo</b></td>
-        <td>,a href = "https://describo.github.io">Describo</a> is a tool that allows you to create and update RO-Crates - packages of research data with associated metadata. It provides researchers with a relatively simple way to describe their data using the best practices in formal metadata description.
+        <td><a href = "https://describo.github.io">Describo</a> is a tool that allows you to create and update RO-Crates - packages of research data with associated metadata. It provides researchers with a relatively simple way to describe their data using the best practices in formal metadata description.
 Superseded for project purposes by Crate-O
 </td>
     </tr>

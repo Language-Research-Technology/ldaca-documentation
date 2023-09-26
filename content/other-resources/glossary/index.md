@@ -35,7 +35,7 @@ ATAP notebooks are made available using a Binder instance maintained by AARNet/N
     <tr>
         <td><b>Confidentiality</b></td>
         <td>The obligation to protect identity and privacy as recognised under Australian Law in the Privacy Act 1988. <br />
-<a href = "https://toolkit.data.gov.au/Confidentiality_-_The_obligation_to_protect_identity_and_privacy.html">More information</a></td>
+<a href = "https://toolkit.data.gov.au/data-integration/data-integration-projects/part-1.html" target = "_blank">More information</a></td>
     </tr>
     <tr>
         <td><b>Copyright</b></td>
@@ -43,7 +43,7 @@ ATAP notebooks are made available using a Binder instance maintained by AARNet/N
     </tr>
     <tr>
         <td><b>Crate-O</b></td>
-        <td><a href = "https://github.com/Language-Research-Technology/crate-o">Crate-O</a> is a tool that allows you to create and update RO-Crates - packages of research data with associated metadata. It provides researchers with a relatively simple way to describe their data using the best practices in formal metadata description.</td>
+        <td><a href = "https://github.com/Language-Research-Technology/crate-o" target = "_blank">Crate-O</a> is a tool that allows you to create and update RO-Crates - packages of research data with associated metadata. It provides researchers with a relatively simple way to describe their data using the best practices in formal metadata description.</td>
     </tr>
     <tr>
         <td><b>Data commons</b></td>
@@ -58,7 +58,7 @@ LDaCA is a language data commons serving researchers and community groups that a
     <tr>
         <td><b>Data License</b></td>
         <td>A legal arrangement between the creator of the data and the end-user specifying what users can do with the data.
-<a href = "https://www.howtofair.dk/how-to-fair/data-licences/">More Information</a>
+<a href = "https://www.howtofair.dk/how-to-fair/data-licences/" target = "_blank">More Information</a>
 </td>
     <tr>
         <td><b>Data packaging</b></td>
@@ -85,7 +85,7 @@ Superseded for project purposes by Crate-O
     <tr>
         <td><b>GLAM Workbench</b></td>
         <td>Suite of notebooks developed by Tim Sherratt. Primarily, the notebooks use data from Trove newspaper and magazine collection, but some extensions beyond this. 
-        <a href = "https://glam-workbench.net/">More information</a></td>
+        <a href = "https://glam-workbench.net/" target = "_blank">More information</a></td>
     </tr>
     <tr>
         <td><b>Intellectual property</b></td>
@@ -132,7 +132,7 @@ Superseded for project purposes by Crate-O
 <li>genetic information</li>
 <li>culturally sensitive data or data deemed sensitive by the data provider</li>
 </ul>
-<a href = "https://www.alrc.gov.au/publication/for-your-information-australian-privacy-law-and-practice-alrc-report-108/6-the-privacy-act-some-important-definitions/sensitive-information/">More information</a>
+<a href = "https://www.alrc.gov.au/publication/for-your-information-australian-privacy-law-and-practice-alrc-report-108/6-the-privacy-act-some-important-definitions/sensitive-information/" target = "_blank">More information</a>
 </td>
     </tr>
     <tr>

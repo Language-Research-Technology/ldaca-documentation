@@ -6,7 +6,7 @@ draft: false
 
 {{<raw>}}
 
-<table>
+<table id="glossary_table">
     <tr>
         <td><b>Access condition</b></td>
         <td>Data licenses may specify who can be an end-user. A well-governed archival repository has mechanisms in place to administer and implement such conditions.</td>

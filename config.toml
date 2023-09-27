@@ -359,7 +359,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "other-resources"
     name = "Other Resources"
-    url = "/other-resources/"
+    url = "/other-resources/other-resources/"
     weight = 6
   [[menu.main]]
     identifier = "contact"

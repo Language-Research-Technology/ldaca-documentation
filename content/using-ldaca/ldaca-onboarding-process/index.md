@@ -65,7 +65,7 @@ At this stage, it is important to share key information and resources about the 
 
 #### Additional resources relevant to this step:
 - TODO: ADD Workplan template
-- TODO: ADD LDaCA Terms of Use
+- [LDaCA Terms of Use](/content/using-ldaca/terms-of-use/index.md)
 - TODO: ADD LDaCA Privacy Policy (being finalised)
 
 ### 3. Determining appropriate governance and access conditions
@@ -86,10 +86,10 @@ A persistent identifier for the collection must also be provided to support sust
 5. Provide a persistent identifier for the collection (obtaining a DOI if necessary).
 
 #### Additional resources relevant to this step:
-- TODO: ADD LDaCA Access Policy
-- TODO: ADD Guidance for data governance decisions
-- TODO: ADD Determining access conditions
-- TODO: ADD Obtaining a DoI
+- [LDaCA Access Policy](/content/using-ldaca/access-policy/index.md)
+- [Guidance for data governance decisions](/content/using-ldaca/index.md)
+- [Determining access conditions](/content/using-ldaca/determining-access-conditions/index.md)
+- [Obtaining a DOI](/content/using-ldaca/obtaining-doi/_index.md)
 
 ### 4. Preparing data for cataloguing in LDaCA
 

@@ -6,6 +6,12 @@ draft: false
 
 # Determining Access Conditions
 
+#### [Step 1: Consider access condition(s) for the entire collection](#step-1-consider-access-conditions-for-the-entire-collection-1)
+#### [Step 2: Organise relevant materials](#step-2-organise-relevant-materials-1)
+#### [Step 3: Define the license terms](#step-3-define-the-license-terms-1)
+#### [Step 4: Determine authorisation level](#step-4-determine-authorisation-level-1)
+#### [Options for access by application](#options-for-access-by-application-1)
+
 LDaCA recommends the following workflow to determine the access conditions to be outlined in the license. Examples of existing data access licenses can be found [here](https://docs.ldaca.edu.au/licenses/).
 
 ## Step 1: Consider access condition(s) for the entire collection

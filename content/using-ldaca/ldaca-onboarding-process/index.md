@@ -6,6 +6,14 @@ draft: false
 
 # LDaCA Onboarding Process
 
+#### [Purpose](#purpose-1)
+#### [Onboarding Process](#onboarding-process-1)
+#### [1. Identifying relevant collections and initiating contact between LDaCA Data Stewards](#1-identifying-relevant-collections-and-initiating-contact-between-ldaca-data-stewards-1)
+#### [2. Workplan](#2-workplan-1)
+#### [3. Determining appropriate governance and access conditions](#3-determining-appropriate-governance-and-access-conditions-1)
+#### [4. Preparing data for cataloguing in LDaCA](#4-preparing-data-for-cataloguing-in-ldaca-1)
+#### [5. Ongoing engagement](#5-ongoing-engagement-1)
+
 ## Purpose
 
 This document outlines the standards and processes that support the onboarding of language collections to LDaCA. A successful onboarding will result in the collection being catalogued with LDaCA and made available in accordance with the specified access conditions. To determine if you are ready to onboard a collection, check this data management and governance capacity flowchart.

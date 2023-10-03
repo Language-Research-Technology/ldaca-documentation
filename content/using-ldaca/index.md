@@ -18,16 +18,16 @@ This document provides guidance on some components of data governance that are k
 
 <br>
 
-#### [1. Access Conditions](#1-access-conditions)
+#### [1. Access Conditions](#1-access-conditions-1)
 
-- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints)
-- #### [1.2 Licensing](#12-licensing)
+- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints-1)
+- #### [1.2 Licensing](#12-licensing-1)
 
-#### [2. Persistent Identifiers](#2-persistent-identifiers)
+#### [2. Persistent Identifiers](#2-persistent-identifiers-1)
 
-#### [3. Metadata](#3-metadata)
+#### [3. Metadata](#3-metadata-1)
 
-#### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright)
+#### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright-1)
 
 <br>
 

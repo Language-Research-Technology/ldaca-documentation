@@ -6,13 +6,13 @@ draft: false
 
 # LDaCA Onboarding Process
 
-#### [Purpose](#purpose-1)
-#### [Onboarding Process](#onboarding-process-1)
-#### [1. Identifying relevant collections and initiating contact between LDaCA Data Stewards](#1-identifying-relevant-collections-and-initiating-contact-between-ldaca-data-stewards-1)
-#### [2. Workplan](#2-workplan-1)
-#### [3. Determining appropriate governance and access conditions](#3-determining-appropriate-governance-and-access-conditions-1)
-#### [4. Preparing data for cataloguing in LDaCA](#4-preparing-data-for-cataloguing-in-ldaca-1)
-#### [5. Ongoing engagement](#5-ongoing-engagement-1)
+#### [Purpose](#purpose)
+#### [Onboarding Process](#onboarding-process)
+#### [1. Identifying relevant collections and initiating contact between LDaCA Data Stewards](#1-identifying-relevant-collections-and-initiating-contact-between-ldaca-data-stewards)
+#### [2. Work Plan](#2-work-plan))
+#### [3. Determining appropriate governance and access conditions](#3-determining-appropriate-governance-and-access-conditions)
+#### [4. Preparing data for cataloguing in LDaCA](#4-preparing-data-for-cataloguing-in-ldaca)
+#### [5. Ongoing engagement](#5-ongoing-engagement)
 
 ## Purpose
 
@@ -25,7 +25,7 @@ This document outlines the standards and processes that support the onboarding o
 The LDaCA onboarding process is carried out collaboratively between LDaCA and the Data Steward. There are five broad steps to be followed; while the order of these steps is flexible, each step should be appropriately covered.
 
 1. Identifying relevant collections and initiating contact between LDaCA Data Stewards.
-2. Establishing a workplan.
+2. Establishing a Work Plan.
 3. Determining the data governance and access conditions appropriate for this collection, and applying that in LDaCA.
 4. Preparing data for onboarding to LDaCA.
 5. Facilitating ongoing engagement.
@@ -48,23 +48,23 @@ LDaCA reaches out to the contact person for the collection with the aim of ident
 #### Additional resources relevant to this step:
 - TODO: ADD Initial outreach checklist
 
-### 2. Workplan
+### 2. Work Plan
 
-Once communication between LDaCA and the Data Steward is in place, a workplan is prepared in order to establish the terms according to which the data will be onboarded to LDaCA, including the goals and responsibilities of each party, and the steps and timeline for carrying out the onboarding process.
+Once communication between LDaCA and the Data Steward is in place, a Work Plan is prepared in order to establish the terms according to which the data will be onboarded to LDaCA, including the goals and responsibilities of each party, and the steps and timeline for carrying out the onboarding process.
 
 At this stage, it is important to share key information and resources about the LDaCA project and manage expectations.
 
 #### LDaCA will:
-1. Provide the workplan template for onboarding.
-2. Collaborate with the Data Steward on the development of the workplan.
+1. Provide the Work Plan template for onboarding.
+2. Collaborate with the Data Steward on the development of the Work Plan.
 3. Provide further information about LDaCA, its services and limitations.
 
 #### Data Steward will:
 1. Confirm their role as the Data Steward.
-2. Collaborate with LDaCA on the development of the workplan.
+2. Collaborate with LDaCA on the development of the Work Plan.
 
 #### Additional resources relevant to this step:
-- TODO: ADD Workplan template
+- TODO: ADD Work Plan template
 - [LDaCA Terms of Use](/content/using-ldaca/terms-of-use/index.md)
 - TODO: ADD LDaCA Privacy Policy (being finalised)
 
@@ -115,12 +115,12 @@ Finally, we implement ongoing engagement by outlining shared responsibilities an
 #### LDaCA will:
 1. Incorporate updates to the data collection provided by the Data Steward.
 2. Make the Data Steward aware of any takedown requests.
-3. Update the workplan as relevant, with responsibilities for ongoing maintenance of the collection in LDaCA.
+3. Update the Work Plan as relevant, with responsibilities for ongoing maintenance of the collection in LDaCA.
 
 #### Data Steward will:
 1. Make LDaCA aware of any updates to the data collection they wish to incorporate, and work with LDaCA to incorporate them.
 2. Review any takedown requests, make a decision about how to address them, and inform LDaCA of that decision.
-3. Update the workplan as relevant, with responsibilities for ongoing maintenance of the collection in LDaCA.
+3. Update the Work Plan as relevant, with responsibilities for ongoing maintenance of the collection in LDaCA.
 
 #### Additional resources relevant to this step:
 - TODO: ADD Takedown policy (being finalised)

@@ -6,11 +6,11 @@ draft: false
 
 # Access Policy
 
-#### [Purpose](#purpose-1)
-#### [1. Access Types and Licensing](#1-access-types-and-licensing-1)
-#### [2. Onboarding Data to LDaCA](#2-onboarding-data-to-ldaca-1)
-#### [3. Ongoing Data Management Strategy](#3-ongoing-data-management-strategy-1)
-#### [4. Supporting Information](#4-supporting-information-1)
+#### [Purpose](#purpose)
+#### [1. Access Types and Licensing](#1-access-types-and-licensing)
+#### [2. Onboarding Data to LDaCA](#2-onboarding-data-to-ldaca)
+#### [3. Ongoing Data Management Strategy](#3-ongoing-data-management-strategy)
+#### [4. Supporting Information](#4-supporting-information)
 
 ## Purpose
 This document outlines the LDaCA Access Policy, which is developed to accommodate the goal of making data appropriately accessible, in accordance with legal, moral and ethical considerations of data sharing, and tailored to meet the needs and requirements of different data collections.

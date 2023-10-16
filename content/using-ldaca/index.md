@@ -18,33 +18,19 @@ This document provides guidance on some components of data governance that are k
 
 <br>
 
-#### [1. Access Conditions](#1-access-conditions-1)
+#### [1. Access Conditions](#1-access-conditions)
 
-- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints-1)
-- #### [1.2 Licensing](#12-licensing-1)
+- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints)
+- #### [1.2 Licensing](#12-licensing)
 
-#### [2. Persistent Identifiers](#2-persistent-identifiers-1)
+#### [2. Persistent Identifiers](#2-persistent-identifiers)
 
-#### [3. Metadata](#3-metadata-1)
+#### [3. Metadata](#3-metadata)
 
-#### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright-1)
-
+#### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright)
 <br>
 
 See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
-<br>
-
-| Key Terms                                                                              | Description                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CARE Principles<br/>(Collective benefit, Authority to Control, Responsibility, Ethics) | Four key principles that describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. Though developed specifically with Indigenous Peoples in mind, the principles are applicable more generally.                                            |
-| FAIR Principles<br/>(Findable, Accessible, Interoperable, Reusable)                    | Four key principles addressing data management and stewardship, developed in 2016 with the aim of supporting the discovery and reuse of research data.                                                                                                                                             |
-| Data collection                                                                        | A set of data collected under similar conditions and brought together in a shared framework.                                                                                                                                                                                                       |
-| Data governance                                                                        | The policies and processes by which data is managed through its life cycle to ensure the quality, reliability, security, and sustainability of the data.                                                                                                                                           |
-| Data Steward                                                                           | An individual or organisation with the authority to make decisions regarding the named data collection. In some cases, the Data Steward may also be the copyright owner.                                                                                                                           |
-| Data management plan                                                                   | A data management plan is a document that (1) outlines key information about a research project and its data, including the access conditions and ownership, storage, and future use and (2) sets out roles and responsibilities in its management.                                                |
-| Intellectual Property                                                                  | Creations of the mind, such as inventions, designs, and literary and artistic works. As a way of promoting creative endeavours, legal mechanisms such as copyright, patents and trademarks provide economic and non-economic rights to the creators of such works.                                 |
-| Licensing                                                                              | A process that allows the copyright owner to share the right to access and use the data without reassigning the ownership of the copyright of the work. A license for a data collection establishes the conditions for who can access, share and reuse the data, and other conditions as required. |
-| Creative Commons licenses                                                              | A set of licenses that allow for data reusability under specified conditions re attribution, data sharing, commercialisation, data adaptation.                                                                                                                                                     |
 
 <br>
 

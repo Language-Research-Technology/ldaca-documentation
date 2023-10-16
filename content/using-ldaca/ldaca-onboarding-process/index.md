@@ -8,7 +8,7 @@ draft: false
 
 #### [Purpose](#purpose)
 #### [Onboarding Process](#onboarding-process)
-#### [1. Identifying relevant collections and initiating contact between LDaCA Data Stewards](#1-identifying-relevant-collections-and-initiating-contact-between-ldaca-data-stewards)
+#### [1. Initiating contact between LDaCA and Data Stewards](#1-initiating-contact-between-ldaca-and-data-stewards)
 #### [2. Work Plan](#2-work-plan))
 #### [3. Determining appropriate governance and access conditions](#3-determining-appropriate-governance-and-access-conditions)
 #### [4. Preparing data for cataloguing in LDaCA](#4-preparing-data-for-cataloguing-in-ldaca)
@@ -24,7 +24,7 @@ This document outlines the standards and processes that support the onboarding o
 
 The LDaCA onboarding process is carried out collaboratively between LDaCA and the Data Steward. There are five broad steps to be followed; while the order of these steps is flexible, each step should be appropriately covered.
 
-1. Identifying relevant collections and initiating contact between LDaCA Data Stewards.
+1. Initiating contact between LDaCA and Data Stewards.
 2. Establishing a Work Plan.
 3. Determining the data governance and access conditions appropriate for this collection, and applying that in LDaCA.
 4. Preparing data for onboarding to LDaCA.
@@ -32,18 +32,20 @@ The LDaCA onboarding process is carried out collaboratively between LDaCA and th
 
 These five steps are covered in detail below, along with the responsibilities of LDaCA and the Data Steward for each step, and associated resources.
 
-### 1. Identifying relevant collections and initiating contact between LDaCA Data Stewards
+### 1. Initiating contact between LDaCA and Data Stewards
 
-Data Stewards wishing to onboard data to LDaCA may approach LDaCA about this, and LDaCA will also seek to identify appropriate collections of onboarding.
+Data Stewards wishing to onboard data to LDaCA may approach LDaCA about this, and LDaCA will also seek to identify appropriate collections for onboarding.
 
 LDaCA will gather relevant publicly available information, and record that information in a collection onboarding database. This includes information about the current location, significance and description of the collection; size, format and data structure; existing metadata; persistent identifiers (if any) and contact person.
 
-LDaCA reaches out to the contact person for the collection with the aim of identifying the appropriate Data Steward, establishing a collaborative relationship, providing information about LDaCA, and discussing shared goals for cataloguing the collection in LDaCA.
+Contact between LDaCA and the Data Steward is initiated with the aim of identifying the appropriate Data Steward, establishing a collaborative relationship, providing information about LDaCA, and discussing shared goals for the onboarding of the collection to LDaCA.
 
 #### LDaCA will:
-1. Respond to requests to onboard data to LDaCA.
-2. Research data collections, and approach contact people about onboarding data to LDaCA.
-3. Establish goals for data onboarding.
+1. Respond to requests to onboard data to LDaCA and/or research data collections and approach contact people about onboarding data to LDaCA.
+2. Provide information about LDaCA.
+3. Confirm the Data Steward.
+4. Help to determine if the data collection is ready for onboarding.
+5. Discuss needs and goals for onboarding to LDaCA.
 
 #### Additional resources relevant to this step:
 - TODO: ADD Initial outreach checklist

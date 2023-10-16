@@ -31,6 +31,9 @@ This document provides guidance on some components of data governance that are k
 
 <br>
 
+See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
+<br>
+
 | Key Terms                                                                              | Description                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CARE Principles<br/>(Collective benefit, Authority to Control, Responsibility, Ethics) | Four key principles that describe how data should be treated to ensure that Indigenous governance over the data and its use are respected. Though developed specifically with Indigenous Peoples in mind, the principles are applicable more generally.                                            |

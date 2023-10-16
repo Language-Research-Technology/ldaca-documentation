@@ -6,7 +6,7 @@ draft: false
 
 # LDaCA Terms of Use
 
-See the LDaCA Glossary for definitions of key terms and concepts.  
+See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
 
 I have read and agree to the Terms of Use.
 
@@ -44,7 +44,7 @@ Refer: https://www.legislation.gov.au/Details/C2019C00042
 
 ### CONFIDENTIALITY
 The obligation to protect identity and privacy as recognised under Australian Law in the Privacy Act 1988.
-Refer: https://toolkit.data.gov.au/Confidentiality_-_The_obligation_to_protect_identity_and_privacy.html
+Refer: https://www.abs.gov.au/about/data-services/data-confidentiality-guide
 
 ### DATA ACCESS LICENCE
 A legal arrangement between the creator of the data and the end-user specifying what users can do with the data.

@@ -22,7 +22,7 @@ The Access Policy comprises three key components, as outlined in this document
 - Onboarding data to LDaCA
 - Ongoing data management
 
-TODO: add link to glossary
+See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
 
 ## 1. Access Types and Licensing
 
@@ -39,7 +39,7 @@ __Authorization Required__<br>Different levels of implementation:<ol><li>click-t
 
 In accordance with the Access Policy, LDaCA has an established process for onboarding to LDaCA. Throughout this process, the LDaCA team will work with the Data Steward to develop an effective strategy for managing access, in accordance with relevant legal, moral and ethical considerations applying to that data.
 
-TODO: [Link to LDaCA Onboarding Process Document]
+[LDaCA Onboarding Process](/content/using-ldaca/ldaca-onboarding-process/)
 
 ### LDaCA Responsibilities
 
@@ -62,7 +62,7 @@ A strategy for ongoing access and data management of the collection in LDaCA mus
 
 Both LDaCA and the Data Steward are jointly responsible for ongoing maintenance of the collection in LDaCA, and updating the workplan as needed.
 
-TODO: [Link to LDaCA Onboarding Process Document]
+[LDaCA Onboarding Process](/content/using-ldaca/ldaca-onboarding-process/)
 
 ## 4. Supporting Information
 
@@ -83,7 +83,9 @@ The key points included in the Terms of Use are:
 
 The Terms of Use can be viewed [here](/content/using-ldaca/terms-of-use/).
 
-TODO: add flowchart image
+<br>
+
+![Alt text](/content/using-ldaca/access-policy/LDaCA%20Terms%20of%20Use-updated.jpg)
 
 ### Privacy Policy
 

@@ -21,7 +21,9 @@ LDaCA recommends the following workflow to determine the access conditions to be
   Metadata is licensed with an open license in order to allow the user to find the collection through the LDaCA catalogue.
   - __If no__ → all of the ways the data can be accessed must be defined, with a license for each subset.
 
-TODO: insert image
+<br>
+
+![Alt text](/content/using-ldaca/determining-access-conditions/AccessConditions_Flow1.jpg)
 
 - Name the license(s).
 - Complete the following steps 2-4 for each license.
@@ -50,7 +52,9 @@ What authorisation is required for users to access this license?
 - __If by invitation__ → only users invited by the Data Steward can accept the license and access the data.
 - __If by application__ → arrange a form or a document with requirements for users to fill in.
 
-TODO: insert image
+<br>
+
+![Alt text](/content/using-ldaca/determining-access-conditions/AccessConditions_Flow2.jpg)
 
 This information can be mapped out visually or listed in an Excel sheet with the following basic structure:
 

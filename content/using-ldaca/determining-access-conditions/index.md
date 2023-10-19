@@ -4,7 +4,7 @@ date: 2023-10-03T12:07:19+11:00
 draft: false
 ---
 
-# Determining Access Conditions
+<br>
 
 #### [Step 1: Consider access condition(s) for the entire collection](#step-1-consider-access-conditions-for-the-entire-collection)
 #### [Step 2: Organise relevant materials](#step-2-organise-relevant-materials)
@@ -12,7 +12,15 @@ draft: false
 #### [Step 4: Determine authorisation level](#step-4-determine-authorisation-level)
 #### [Options for access by application](#options-for-access-by-application)
 
+<br>
+
+See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
+
+<br>
+
 LDaCA recommends the following workflow to determine the access conditions to be outlined in the license. Examples of existing data access licenses can be found [here](https://docs.ldaca.edu.au/licenses/).
+
+<br>
 
 ## Step 1: Consider access condition(s) for the entire collection
 
@@ -23,10 +31,14 @@ LDaCA recommends the following workflow to determine the access conditions to be
 
 <br>
 
-![Alt text](/content/using-ldaca/determining-access-conditions/AccessConditions_Flow1.jpg)
+![Access Conditions Flowchart 1](/AccessConditions_Flow1.jpg)
+
+<br>
 
 - Name the license(s).
 - Complete the following steps 2-4 for each license.
+
+<br>
 
 ## Step 2: Organise relevant materials
 
@@ -35,6 +47,8 @@ What material can be accessed with this license?
   - Metadata vs. data
   - Formats, e.g. transcriptions vs. audio
   - List of files/speakers (based on a shared quality such as sensitive material, transcribed or non-anonymised material)
+
+<br>
 
 ## Step 3: Define the license terms
 
@@ -45,6 +59,8 @@ What material can be accessed with this license?
 - Provide a brief description of the license conditions (1-2 lines).
 - List the correct citation for this material.
 
+<br>
+
 ## Step 4: Determine authorisation level
 
 What authorisation is required for users to access this license?
@@ -54,7 +70,9 @@ What authorisation is required for users to access this license?
 
 <br>
 
-![Alt text](/content/using-ldaca/determining-access-conditions/AccessConditions_Flow2.jpg)
+![Access Conditions Flowchart 2](/AccessConditions_Flow2.jpg)
+
+<br>
 
 This information can be mapped out visually or listed in an Excel sheet with the following basic structure:
 
@@ -62,6 +80,8 @@ License | Step 1: Determine the number of separate licenses needed, and name the
 --- | --- | --- | --- | ---
 1 | | | |
 2 | | | |
+
+<br>
 
 ## Options for access by application
 

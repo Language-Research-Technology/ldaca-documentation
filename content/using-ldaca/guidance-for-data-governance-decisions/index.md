@@ -1,7 +1,22 @@
 ---
 title: "Guidance for Data Governance Decisions"
+date: 2023-10-18T12:09:10+11:00
 draft: false
 ---
+
+<br>
+
+#### [Purpose](#purpose)
+#### [1. Access Conditions](#1-access-conditions)
+- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints)
+- #### [1.2 Licensing](#12-licensing)
+#### [2. Persistent Identifiers](#2-persistent-identifiers)
+#### [3. Metadata](#3-metadata)
+#### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright)
+
+<br>
+
+See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
 
 <br>
 
@@ -15,22 +30,6 @@ This document provides guidance on some components of data governance that are k
 
 > ![thought-bubble](/thought-bubble.png) **Questions for reflection:**<br>
 > In each section, you will find a thought bubble marking some questions for reflection that will help you start to explore these data governance topics. This content is designed as guidance for Data Stewards considering how to manage their data into the future.
-
-<br>
-
-#### [1. Access Conditions](#1-access-conditions)
-
-- #### [1.1 Legal, moral, and ethical constraints](#11-legal-moral-and-ethical-constraints)
-- #### [1.2 Licensing](#12-licensing)
-
-#### [2. Persistent Identifiers](#2-persistent-identifiers)
-
-#### [3. Metadata](#3-metadata)
-
-#### [4. Appendix: Determining Copyright](#4-appendix-determining-copyright)
-<br>
-
-See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
 
 <br>
 
@@ -111,18 +110,18 @@ Once this information has been confirmed, calculate the duration of copyright us
 
 **Find out more about copyright, intellectual property and licensing:**<br>
 
-- What is Intellectual Property? World Intellectual Property Organisation: https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf<br>
-- Fact sheets, Arts Law Centre of Australia:
+- [What is Intellectual Property?](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_450_2020.pdf) (World Intellectual Property Organisation)
+- Fact sheets (Arts Law Centre of Australia):
 
-  - Copyright Information sheet: https://www.artslaw.com.au/information-sheet/copyright/<br>
-  - Duration of Copyright: https://www.copyright.org.au/browse/book/ACC-Duration-of-Copyright-INFO023<br>
-  - Performers’ Rights: https://www.artslaw.com.au/information-sheet/performers-rights/<br>
-  - Licensing: https://www.artslaw.com.au/information-sheet/licensing-aitb/
+  - [Copyright Information sheet](https://www.artslaw.com.au/information-sheet/copyright/)
+  - [Duration of Copyright](https://www.copyright.org.au/browse/book/ACC-Duration-of-Copyright-INFO023)
+  - [Performers’ Rights](https://www.artslaw.com.au/information-sheet/performers-rights/)
+  - [Licensing](https://www.artslaw.com.au/information-sheet/licensing-aitb/)
 
-- Fact sheets, Australian Copyright Council: https://www.copyright.org.au/resources<br>
-- Types of IP, IP Australia: https://www.ipaustralia.gov.au/understanding-ip/types-of-ip<br>
-- Fact sheet: Intellectual Property – Basics, The University of Queensland: https://staff.uq.edu.au/files/33574/legal-services-fact-sheet-ip-basics.pdf<br>
-- What are the Creative Commons licenses? Creative Commons Australia: https://creativecommons.org.au/learn/fact-sheets/what-are-the-cc-licences/
+- [Fact sheets](https://www.copyright.org.au/resources) (Australian Copyright Council)
+- [Types of IP](https://www.ipaustralia.gov.au/understanding-ip/types-of-ip) (IP Australia)
+- [Fact sheet: Intellectual Property – Basics](https://staff.uq.edu.au/files/33574/legal-services-fact-sheet-ip-basics.pdf) (The University of Queensland)
+- [What are the Creative Commons licenses?](https://creativecommons.org.au/learn/fact-sheets/what-are-the-cc-licences/) (Creative Commons Australia)
 
 <br>
 
@@ -132,7 +131,7 @@ In addition to the legal constraint determined by copyright, it is important to 
 
 Research ethics set shared standards for research processes that uphold and promote important values such as trust, accountability, human rights, and social responsibility, among others, in the pursuit of knowledge and truth.
 
-In Australia, research ethics are defined in key frameworks such as:<br>
+In Australia, research ethics are defined in key frameworks such as:
 
 - [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018)
 - [National Statement on Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018)
@@ -186,11 +185,11 @@ In brief, the four principles are:
 
 **Find out more about FAIR and CARE:**
 
-- CARE Principles for Indigenous Data Governance, Global Indigenous Data Alliance: https://ardc.edu.au/resource/the-care-principles/
-- CARE Principles, Australian Research Data Commons: https://ardc.edu.au/resource/the-care-principles/
+- [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care) (Global Indigenous Data Alliance)
+- [CARE Principles](https://ardc.edu.au/resource/the-care-principles/) (Australian Research Data Commons)
 - Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19(1), 43.DOI: https://doi.org/10.5334/dsj-2020-043
-- FAIR Data, Australian Research Data Commons: https://ardc.edu.au/resource/fair-data/
-- FAIR Principles. Go Fair: https://www.go-fair.org/fair-principles/
+- [FAIR Data](https://ardc.edu.au/resource/fair-data/) (Australian Research Data Commons)
+- [FAIR Principles](https://www.go-fair.org/fair-principles/) (Go Fair)
 - Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018. https://doi.org/10.1038/sdata.2016.18
 
 <br>
@@ -216,11 +215,11 @@ Licensing allows the copyright owner to share the right to access and use the da
 
 <br>
 
-**Figure: Key parts of a data license:**
+**Figure: Key parts of a data license**
 
 <br>
 
-![Alt text](data-license-figure.png)
+![Key parts of a data license](/data-license-figure.png)
 
 <br>
 

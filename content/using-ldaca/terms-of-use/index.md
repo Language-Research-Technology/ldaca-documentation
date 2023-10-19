@@ -4,9 +4,11 @@ date: 2023-10-03T13:51:23+11:00
 draft: false
 ---
 
-# LDaCA Terms of Use
+<br>
 
 See the [LDaCA Glossary](https://docs.ldaca.edu.au/other-resources/glossary/) for definitions of key terms and concepts.
+
+<br>
 
 I have read and agree to the Terms of Use.
 
@@ -35,6 +37,8 @@ LDaCA may change the site and Data Collections without notice. LDaCA is not resp
 LDaCA users must not share their account with others. LDaCA may suspend or cancel user access without notice.  
 
 TODO: [Add reference/link to separate Privacy Policy statement here.]
+
+<br>
 
 ## GLOSSARY [draft; terms that may not be in LDaCA Glossary yet]
 

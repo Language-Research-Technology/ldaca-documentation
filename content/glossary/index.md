@@ -74,5 +74,5 @@ While the current version of Crate-O is designed for editing self-contained RO-C
 Crate-O is currently developed by the Language Data Commons of Australia (LDaCA), under the guidance of Peter Sefton as technical lead. If the tool is adopted in other contexts (we are in talks with a few groups about this) then we aim to establish a steering committee/reference group to help guide development.
 
 {{<raw>}}
-<a name = "fair">FAIR</a>
+<a name = "fair"></a>FAIR
 {{</raw>}}

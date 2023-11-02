@@ -40,7 +40,7 @@ draft: false
 
 <details>
     <summary>
-        <b>What are FAIR and CARE?</b>
+        <b>What are {{< glossary_link id = "fair" >}} and {{< glossary_link id = "care" >}}?</b>
     </summary>
     <p>
         These are two complementary sets of principles for data management and stewardship.
@@ -161,3 +161,5 @@ What is available when signed in:
 </details>
 
 {{</raw>}}
+
+### What is a {{< glossary_link id = "pid" >}}

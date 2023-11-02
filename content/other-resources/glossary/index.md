@@ -5,3 +5,5 @@ draft: false
 ---
 
 {{< glossary_list >}}
+
+{{< glossary_link id = "metadata" >}}

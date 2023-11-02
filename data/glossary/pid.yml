@@ -1,0 +1,4 @@
+Name: "pid"
+"title": "Persistent Identifier (PID)"
+"short_description": "A digital identifier that is permanently assigned."
+"content": "A digital identifier that is permanently assigned and provides a long lasting reference to an object or entity, for example a Digital Object Identifier (DOI)."

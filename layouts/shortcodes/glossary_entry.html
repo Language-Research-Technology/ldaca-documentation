@@ -1,0 +1,8 @@
+{{ $id := .Get "id" }} {{ $data := index .Site.Data.glossary $id }}
+
+<table>
+  <tr>
+    <td><a name="{{ $id }}"></a>{{ $data.title }}</td>
+    <td>{{ $data.content | markdownify }}</td>
+  </tr>
+</table>

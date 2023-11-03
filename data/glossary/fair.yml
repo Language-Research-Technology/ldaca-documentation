@@ -1,7 +1,8 @@
 Name: "fair"
-"title": "FAIR"
+"title": "FAIR Principles"
 "short_description": "Four key principles developed in 2016 with the aim of supporting the discovery and reuse of research data."
 "content": "Four key principles developed in 2016 with the aim of supporting the discovery and reuse of research data.
+
 
 The principles encourage us to make data:
 
@@ -11,4 +12,4 @@ The principles encourage us to make data:
 
 - Interoperable
 
-- Reuseable"
+- Reusable"

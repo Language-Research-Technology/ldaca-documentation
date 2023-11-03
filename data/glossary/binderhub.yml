@@ -4,4 +4,4 @@ Name: "binderhub"
 "content": "A Kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. It is the primary technology behind mybinder.org.
 
 
-ATAP notebooks are made available using a Binder instance maintained by AARNet/Nectar."
+[ATAP](https://www.atap.edu.au/) notebooks are made available using a Binder instance maintained by [AARNet](https://www.aarnet.edu.au/)/Nectar."

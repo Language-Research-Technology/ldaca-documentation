@@ -1,4 +1,4 @@
 Name: "crate-o"
 "title": "Crate-O"
 "short_description": "A tool that allows you to create and update RO-Crates."
-"content": "A tool that allows you to create and update RO-Crates. It provides researchers with a relatively simple way to describe their data using the best practices in formal metadata description."
+"content": "A tool that allows you to create and update RO-Crates using a web interface, and with metadata spreadsheets. It provides researchers with a relatively simple way to describe their data using the best practices in formal metadata description."

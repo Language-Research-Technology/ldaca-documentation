@@ -13,7 +13,20 @@ TODO: Add general description of search.
 
 ### Basic Search
 
-TODO: add guide
+The Basic Search is accessed from the top left section of the Portal main page.
+
+Basic Search allows you to search for:
+- single words
+- multiple words where at least one of these occurs (e.g. `northern territory` will return results where 'northern' and 'territory' occur in isolation, as well as any instances where 'northern' and 'territory' occur in the same object.)
+
+Basic Search does not allow you to search for:
+- exact phrases
+
+<br>
+
+Results are ordered by default according to relevance and in descending order. Each result will display a _Relevance Score_ based on the search query. If at least one of the query words occurs in the text field of an object, this will be highlighted in yellow, however highlighting will not occur for matches within other fields such as name and description.
+
+Note that queries in Basic Search will be applied to all content in the collections (e.g. name, description, text). If you need to refine the search field, use Advanced Search.
 
 <br>
 

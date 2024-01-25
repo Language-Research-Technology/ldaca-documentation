@@ -9,7 +9,13 @@ description: "Refine your results according to a set of major metadata categorie
 
 Filters allow you to refine your results according to a set of major metadata categories and are accessed from the left-hand panel of the Portal. Select a filter in order to get the dropdown list of options. A total of five options are visible per page; to access more options use the pagination icons, or if you are looking for a particular option, a search bar is also available.
 
+<br>
+
 ![Filter List](/help_docs/filters1.png)
+
+![Linguistic Genre Filter](/help_docs/filters2.png)
+
+<br>
 
 Once you have selected all the applicable filters, select the _Apply Filters_ button. The top of the results section will show the filters that are applied, and these can either be removed individually or in bulk with the _Clear Filters_ button.
 

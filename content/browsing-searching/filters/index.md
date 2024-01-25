@@ -2,16 +2,23 @@
 title: "Filters"
 date: 2024-01-23T14:23:10+11:00
 draft: false
-description: "TODO"
+description: "Refine your results according to a set of major metadata categories."
 ---
 
 <br>
 
-TODO: Add general description of filters.
+Filters allow you to refine your results according to a set of major metadata categories and are accessed from the left-hand panel of the Portal. Select a filter in order to get the dropdown list of options. A total of five options are visible per page; to access more options use the pagination icons, or if you are looking for a particular option, a search bar is also available.
+
+![Filter List](/help_docs/filters1.png)
+
+Once you have selected all the applicable filters, select the _Apply Filters_ button. The top of the results section will show the filters that are applied, and these can either be removed individually or in bulk with the _Clear Filters_ button.
 
 <br>
 
-### Collection
+### Filter Categories
+
+
+#### Collection
 
 A group of related objects such as a corpus, a sub-corpus, or items collected in a session with consultants.
 
@@ -22,7 +29,7 @@ __Examples:__
 
 <br>
 
-### Sub-Collection
+#### Sub-Collection
 
 The sub-collections, if any, associated with a collection.
 
@@ -33,7 +40,7 @@ __Examples:__
 
 <br>
 
-### Access
+#### Access
 
 The access conditions associated with a resource. Note that these differ from the three general categories of the Access icons(TODO: link) and are instead the specific licenses.
 
@@ -44,7 +51,7 @@ __Examples:__
 
 <br>
 
-### Record Type
+#### Record Type
 
 The type of object a record describes, i.e. a collection, object or file. For individual files, this field also gives information about the nature of the material, i.e. primary material, transcription, annotation etc.
 
@@ -55,7 +62,7 @@ __Examples:__
 
 <br>
 
-### Language
+#### Language
 
 The language(s) of the content in this resource.
 
@@ -66,7 +73,7 @@ __Examples:__
 
 <br>
 
-### Modality
+#### Modality
 
 The mode(s) (spoken, written, signed, etc.) used in the interaction represented by this resource.
 
@@ -76,7 +83,7 @@ __Examples:__
 
 <br>
 
-### Linguistic Genre
+#### Linguistic Genre
 
 The linguistic classification of the genre of this resource.
 
@@ -87,7 +94,7 @@ __Examples:__
 
 <br>
 
-### File Format
+#### File Format
 
 The media type of the resource.
 

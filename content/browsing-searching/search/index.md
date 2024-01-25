@@ -2,25 +2,28 @@
 title: "Search"
 date: 2024-01-23T14:23:27+11:00
 draft: false
-description: "TODO"
+description: "Further refine your queries with word, phrase and pattern searches."
 ---
 
 <br>
 
-TODO: Add general description of search.
+Search allows you to further refine your queries throughout collections, objects and files, both through single or group word queries, as well as specific patterns through regular expressions. The Portal has both basic and advanced search capabilities.
 
 <br>
 
 ### Basic Search
 
+<br>
+
 The Basic Search is accessed from the top left section of the Portal main page.
 
 Basic Search allows you to search for:
 - single words
-- multiple words where at least one of these occurs (e.g. `northern territory` will return results where 'northern' and 'territory' occur in isolation, as well as any instances where 'northern' and 'territory' occur in the same object.)
+- multiple words where at least one of these occur (e.g. `northern territory` will return results where 'northern' and 'territory' occur in isolation, as well as any instances where 'northern' and 'territory' occur in the same object.)
 
 Basic Search does not allow you to search for:
 - exact phrases
+- parts of words
 
 <br>
 
@@ -32,9 +35,19 @@ Note that queries in Basic Search will be applied to all content in the collecti
 
 ### Advanced Search
 
-TODO: add guide for accessing advanced search
+<br>
 
- The information entered in the Advanced Search box(es) is treated as part of a 'mini-language'.
+To access the Advanced Search options, select _Advanced Search_ below the Basic Search bar.
+
+<br>
+
+__Search Fields__
+
+By default, queries in Advanced Search are applied to all fields, however this can be refined in the top-left dropdown menu. The current fields of search available are _Name_, _Description_, _Language_ and _Text_. Multiple search fields can be added by selecting _Add New Line_.
+
+To reset your search, select _Clear_.
+
+The information entered in the Advanced Search box(es) is treated as part of a 'mini-language'.
 
 - The query string is parsed into a series of terms and operators.
 - In general, the search functions are not case-sensitive. Exceptions to this are Boolean operators (see below). 
@@ -76,5 +89,15 @@ Some regular expression patterns can be used within the query string by surround
 __Reserved Characters__
 
 `+ − = && ; || > < ! ( ) { } [ ] ^ " ~ * ? : \ /`
+
+<br>
+
+__Show Query__
+
+If you need to check your search command against what it is actually sent to the search engine, select _Show Query_.
+
+For example, setting the search field to _Language_ and searching for `Danish` has the following query string:
+
+`( language.name.@value: Danish )`
 
 <br>

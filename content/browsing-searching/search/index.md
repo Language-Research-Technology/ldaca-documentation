@@ -17,6 +17,12 @@ Search allows you to further refine your queries throughout collections, objects
 
 The Basic Search is accessed from the top left section of the Portal main page.
 
+<br>
+
+![Basic Search](/help_docs/basic-search.png)
+ 
+<br>
+
 Basic Search allows you to search for:
 - single words
 - multiple words where at least one of these occur (e.g. `northern territory` will return results where 'northern' and 'territory' occur in isolation, as well as any instances where 'northern' and 'territory' occur in the same object.)
@@ -37,15 +43,19 @@ Note that queries in Basic Search will be applied to all content in the collecti
 
 <br>
 
-To access the Advanced Search options, select _Advanced Search_ below the Basic Search bar.
+The Advanced Search is accessed by selecting ___Advanced Search___ below the Basic Search bar.
 
 <br>
 
-__Search Fields__
+![Advanced Search](/help_docs/advanced-search.png)
 
-By default, queries in Advanced Search are applied to all fields, however this can be refined in the top-left dropdown menu. The current fields of search available are _Name_, _Description_, _Language_ and _Text_. Multiple search fields can be added by selecting _Add New Line_.
+<br>
 
-To reset your search, select _Clear_.
+##### Search Fields
+
+By default, queries in Advanced Search are applied to all fields, however this can be refined in the top-left dropdown menu. The current fields of search available are _Name_, _Description_, _Language_ and _Text_. Multiple search fields can be added by selecting ___Add New Line___.
+
+To reset your search, select ___Clear___.
 
 The information entered in the Advanced Search box(es) is treated as part of a 'mini-language'.
 
@@ -54,9 +64,9 @@ The information entered in the Advanced Search box(es) is treated as part of a '
 
 <br>
 
-__Boolean Operators__
+##### Boolean Operators
 
-The standard Boolean operators `AND`, `OR` and `NOT` are supported in advanced search. These can either be added in the dropdown menu when _Add New Line_ is selected, or included within the search text field, but parentheses should be used whenever multiple operators occur together.
+The standard Boolean operators `AND`, `OR` and `NOT` are supported in advanced search. These can either be added in the dropdown menu when ___Add New Line___ is selected, or included within the search text field, but parentheses should be used whenever multiple operators occur together.
 
 For instance, to search for items that contain both 'public' and 'house' or 'government' and 'house' but not 'cottage', the query should be:
 
@@ -66,7 +76,7 @@ To search for the literal words AND, OR and NOT, add a backward slash (\\) befor
 
 <br>
 
-__Query String Syntax__
+##### Query String Syntax
 
 Symbol | Function
 --- | ---
@@ -80,21 +90,21 @@ Symbol | Function
 
 <br>
 
-__Regular Expressions__
+##### Regular Expressions
 
 Some regular expression patterns can be used within the query string by surrounding the pattern in forward slashes, e.g. `/gr[ae]y/` or `/honou*r/`. Currently, regular expressions can only be used for full-word searches and not phrases. This search engine does not support full Perl-compatible regex syntax, for more information see: [RegExp Syntax](https://www.elastic.co/guide/en/elasticsearch/reference/current/regexp-syntax.html).
 
 <br>
 
-__Reserved Characters__
+##### Reserved Characters
 
 `+ − = && ; || > < ! ( ) { } [ ] ^ " ~ * ? : \ /`
 
 <br>
 
-__Show Query__
+##### Show Query
 
-If you need to check your search command against what it is actually sent to the search engine, select _Show Query_.
+If you need to check your search command against what it is actually sent to the search engine, select ___Show Query___.
 
 For example, setting the search field to _Language_ and searching for `Danish` has the following query string:
 

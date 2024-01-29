@@ -11,9 +11,7 @@ Filters allow you to refine your results according to a set of major metadata ca
 
 <br>
 
-![Filter List](/help_docs/filters1.png)
-
-![Linguistic Genre Filter](/help_docs/filters2.png)
+![Filter List Example](/help_docs/filters1.png) | ![Linguistic Genre Filter](/help_docs/filters2.png)
 
 <br>
 

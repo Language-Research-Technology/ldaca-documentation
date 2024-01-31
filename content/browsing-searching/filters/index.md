@@ -16,7 +16,9 @@ Filters allow you to refine your results according to a set of major metadata ca
 
 <br>
 
-Once you have selected all the applicable filters, select the ___Apply Filters___ button. The top of the results section will show the filters that are applied, and these can either be removed individually or in bulk with the ___Clear Filters___ button.
+The number icons beside each filter indicate how many options are available for that filter, and the number icons beside each option within a filter indicate how many items are available for that option. For example, in the images above, there are four options under the _Collection_ filter, and there are 8098 items available with the Linguistic Genre _Narrative_.
+
+Once you have selected all the applicable filters, select the ___Apply Filters___ button. The top of the results section will show the filters that are applied, and these can either be removed individually by clicking the __×__ next to that filter or in bulk with the ___Clear Filters___ button.
 
 <br>
 

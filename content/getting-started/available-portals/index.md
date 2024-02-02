@@ -6,7 +6,7 @@ draft: false
 
 <br>
 
-This page lists the portals currently available, together with the collections contained in each. As additional collections and portals are added, these will be documented below.
+This page lists and links to the portals currently available, together with the collections contained in each. As additional collections and portals are added, these will be documented below.
 
 <br>
 

@@ -37,7 +37,7 @@ The top menu of the home page contains some of the main features of the Portal:
 
 <br>
 
-The left panel of the Portal home page allows you to refine your data query through the use of a search field and filtering. Hovering over the icon ![Information Icon](/help_docs/information.png) next to each filter will display tooltips related to that item. For more details on how to use the search and filter functions, see the pages [Search](/browsing-searching/search/) and [Filters](/browsing-searching/filters/).
+The left panel of the Portal home page allows you to refine your data query through the use of a search field and filtering. Hovering over the information icon ![Information Icon](/help_docs/information.png) next to each filter will display tooltips related to that item. For more details on how to use the search and filter functions, see the pages [Search](/browsing-searching/search/) and [Filters](/browsing-searching/filters/).
 
 <br>
 
@@ -85,4 +85,43 @@ Icon | Category | Description
 
 <br>
 
+Clicking on one of the collections from the main page results will take you to the Collection page for that item.
+
+<br>
+
+![Collection Page: Braided Channels Example](/help_docs/collectionPage_BraidedChannels.png)
+
+<br>
+
+The main panel of the Collection page lists the main details and metadata associated with the collection. Clicking on the question mark icon ![Question Mark Icon](/help_docs/question.png) and information icon ![Information Icon](/help_docs/information.png) next to each term will display tooltips related to that item.
+
+Following the main description and metadata is a count of the number of objects present in the collection, with each of these objects listed below. Pagination options are also available for collections with more than 10 objects. TODO how are these ordered?
+
+The right panel has the following sections:
+- __Access:__ Defines the license and access conditions for the current collection. TODO together with a click-through link to the full license.
+- __Content:__ Lists some of the main features of the current collection including _Language_, _Linguistic Genre_, _Modality_, _File Formats_ and _Data licenses for access_.
+- __Retrieve Metadata:__ View or download the metadata associated with the current collection. The license and access conditions for this metadata is also listed.
+- __Notebooks:__ Lists any notebooks associated with the current collection.
+
+<br>
+
 ### Object Page
+
+<br>
+
+Clicking on one of the objects or files from either the main page results or from a collection page will take you to the Object page for that item.
+
+<br>
+
+![Object Page: A Corpus of Oz Early English Example](/help_docs/objectPage_COOEE.png)
+
+The left panel of the Object page lists the main details and metadata associated with the object. Clicking on the question mark icon ![Question Mark Icon](/help_docs/question.png) and information icon ![Information Icon](/help_docs/information.png) next to each term will display tooltips related to that item.
+
+The right panel has the following sections:
+- __Access:__ Defines the license and access conditions for the current object, together with a click-through link to the full license.
+- __Member Of:__ Lists the collection that the current object is a part of.
+- __Other Objects in this Collection:__ Lists the other objects that are in the same collection as the current object.
+
+The end of the Object page provides details about the files that form part of the current object. In the example above, the object _Text 1-028 1791 Convict_ has two associated files; the plain text version and a text version including metadata codes, both of which can be viewed with the dropdown option on the right. A preview of the file is available (provided that the access conditions permit this), and there are options ___View File___ to display the full file in the web browser, or ___Download File___ to save a copy of the file to your local system.
+
+<br>

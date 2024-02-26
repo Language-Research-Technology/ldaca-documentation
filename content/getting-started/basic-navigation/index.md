@@ -2,6 +2,7 @@
 title: "Basic Navigation"
 date: 2024-01-29T11:45:30+11:00
 draft: false
+description: "TODO"
 ---
 
 <br>
@@ -105,7 +106,7 @@ The main panel of the Collection page lists the main details and metadata associ
 Following the main description and metadata is a count of the number of objects present in the collection, with each of these objects listed below. Pagination options are also available for collections with more than 10 objects. TODO how are these ordered?
 
 The right panel has the following sections:
-- __Access__: Defines the license and access conditions for the current collection. TODO together with a click-through link to the full license.
+- __Access__: Defines the license and access conditions for the current collection. TODO (together with a click-through link to the full license - this isn't the case currently).
 - __Content__: Lists some of the main features of the current collection including _Language_, _Linguistic Genre_, _Modality_, _File Formats_ and _Data licenses for access_.
 - __Retrieve Metadata__: View or download the metadata associated with the current collection. The license and access conditions for this metadata is also listed.
 - __Notebooks__: Lists any notebooks associated with the current collection.

@@ -2,6 +2,7 @@
 title: "Available Portals"
 date: 2024-01-29T11:45:16+11:00
 draft: false
+description: "TODO"
 ---
 
 <br>
@@ -38,3 +39,5 @@ __Current Collections:__
 - UQ Library Collection
 
 <br>
+
+TODO This page could be combined with the [Collections](https://www.ldaca.edu.au/about/sample-collections/) page already on the main website if we prefer, or alternatively, keep them separate, but make each of the bullet points link to the that item in the Collections page.

@@ -18,3 +18,5 @@ description: "TODO"
 
 - Ascending
 - Descending
+
+TODO this will need to be detailed more when elastic search is updated to open search ont he portal as it may operate a bit differently.

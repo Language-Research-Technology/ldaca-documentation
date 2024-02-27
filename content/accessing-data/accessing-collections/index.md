@@ -15,7 +15,7 @@ While viewing an object that has restricted access, you will see one of the foll
 
 <br>
 
-![Restricted Access Object Example: The Land of the Hibiscus Blossom](/help_docs/object-the-land-of-the-hibiscus-blossom.png)
+![Restricted Access Object Example: The Land of the Hibiscus Blossom](/help_docs/object-the-land-of-the-hibiscus-blossom.png "Restricted Access Object Example: The Land of the Hibiscus Blossom")
 
 <br>
 

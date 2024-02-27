@@ -9,13 +9,13 @@ description: "TODO"
 
 Some collections require that you login either to access or apply for access to the data. This can be done by selecting ___Login___ from the top menu bar.
 
-![Portal Top Menu Options](/help_docs/topMenuOptions.png)
+![Portal Top Menu Options](/help_docs/topMenuOptions.png "Portal Top Menu Options")
 
 <br>
 
 You will be taken to the _LDaCAData_ logon page. Select ___Sign in with CILogon___.
 
-![LDaCA Logon](/help_docs/LDaCALogon.png)
+![LDaCA Logon](/help_docs/LDaCALogon.png "LDaCA Logon")
 
 <br>
 
@@ -31,7 +31,7 @@ For further details about CILogon and the identity providers it supports, see [C
 
 <br>
 
-![CI Logon](/help_docs/CILogon.png)
+![CI Logon](/help_docs/CILogon.png "CI Logon")
 
 TODO what does offline_access mean here?
 

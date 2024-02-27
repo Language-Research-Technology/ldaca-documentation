@@ -24,7 +24,7 @@ There are three main sections of the Home Page; the top menu bar, the left panel
 
 <br>
 
-![Home Page: Top Menu](/help_docs/portal01-topMenu.png)
+![Home Page: Top Menu](/help_docs/portal01-topMenu.png "Home Page: Top Menu")
 
 <br>
 
@@ -41,7 +41,7 @@ The top menu of the home page contains some of the main features of the Portal:
 
 <br>
 
-![Home Page: Left Panel](/help_docs/portal01-leftPanel.png)
+![Home Page: Left Panel](/help_docs/portal01-leftPanel.png "Home Page: Left Panel")
 
 <br>
 
@@ -53,7 +53,7 @@ The left panel of the Portal home page allows you to refine your data query thro
 
 <br>
 
-![Home Page: Main Panel](/help_docs/portal01-mainFrame.png)
+![Home Page: Main Panel](/help_docs/portal01-mainFrame.png "Home Page: Main Panel")
 
 <br>
 
@@ -97,7 +97,7 @@ Clicking on one of the collections from the main page results will take you to t
 
 <br>
 
-![Collection Page: Braided Channels Example](/help_docs/collectionPage_BraidedChannels.png)
+![Collection Page: Braided Channels Example](/help_docs/collectionPage_BraidedChannels.png "Collection Page: Braided Channels Example")
 
 <br>
 
@@ -121,7 +121,7 @@ Clicking on one of the objects or files from either the main page results or fro
 
 <br>
 
-![Object Page: A Corpus of Oz Early English Example](/help_docs/objectPage_COOEE.png)
+![Object Page: A Corpus of Oz Early English Example](/help_docs/objectPage_COOEE.png "Object Page: A Corpus of Oz Early English Example")
 
 The left panel of the Object page lists the main details and metadata associated with the object. Clicking on the question mark icon ![Question Mark Icon](/help_docs/question.png) and information icon ![Information Icon](/help_docs/information.png) next to each term will display tooltips related to that item.
 

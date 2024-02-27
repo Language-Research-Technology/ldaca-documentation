@@ -19,7 +19,7 @@ The Basic Search is accessed from the top left section of the Portal main page.
 
 <br>
 
-![Basic Search](/help_docs/basic-search.png)
+![Basic Search](/help_docs/basic-search.png "Basic Search")
  
 <br>
 
@@ -47,7 +47,7 @@ The Advanced Search is accessed by selecting ___Advanced Search___ below the Bas
 
 <br>
 
-![Advanced Search](/help_docs/advanced-search.png)
+![Advanced Search](/help_docs/advanced-search.png "Advanced Search")
 
 <br>
 

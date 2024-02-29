@@ -24,7 +24,7 @@ There are three main sections of the Home Page; the top menu bar, the left panel
 
 <br>
 
-![Home Page: Top Menu](/help_docs/portal01-topMenu.png "Home Page: Top Menu")
+![Home Page: Top Menu](/help_docs/top-menu.png)
 
 <br>
 
@@ -41,7 +41,7 @@ The top menu of the home page contains some of the main features of the Portal:
 
 <br>
 
-![Home Page: Left Panel](/help_docs/portal01-leftPanel.png "Home Page: Left Panel")
+![Home Page: Left Panel](/help_docs/left-panel.png)
 
 <br>
 
@@ -53,7 +53,7 @@ The left panel of the Portal home page allows you to refine your data query thro
 
 <br>
 
-![Home Page: Main Panel](/help_docs/portal01-mainFrame.png "Home Page: Main Panel")
+![Home Page: Main Panel](/help_docs/main-panel.png)
 
 <br>
 
@@ -97,7 +97,7 @@ Clicking on one of the collections from the main page results will take you to t
 
 <br>
 
-![Collection Page: Braided Channels Example](/help_docs/collectionPage_BraidedChannels.png "Collection Page: Braided Channels Example")
+![Collection Page: Braided Channels Example](/help_docs/collectionPage_BraidedChannels.png)
 
 <br>
 

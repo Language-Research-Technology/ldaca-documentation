@@ -7,18 +7,22 @@ description: "Refine your results according to a set of major metadata categorie
 
 <br>
 
-Filters allow you to refine your results according to a set of major metadata categories and are accessed from the left-hand panel of the Portal. Select a filter in order to get the dropdown list of options. A total of five options are visible per page; to access more options use the pagination icons, or if you are looking for a particular option, a search bar is also available.
+Filters allow you to refine your results according to a set of major metadata categories and are accessed from the left panel of the portal home page. Select a filter in order to see the dropdown list of options; the number icons beside each filter indicate how many options are available. A total of five options are visible per page; to access more options, use the pagination icons, or the search bar if you are looking for a particular option.
 
 <br>
 
-![Filter List Example](/help_docs/filters1.png "Filter List Example") | ![Linguistic Genre Filter Example](/help_docs/filters2.png "Linguistic Genre Filter Example")
---- | ---
+Part of the Filter List | Linguistic Genre Filter Expanded
+:---: | :---:
+![Filter List Example](/help_docs/filters1.png) | ![Linguistic Genre Filter Example](/help_docs/filters2.png)
+
 
 <br>
 
-The number icons beside each filter indicate how many options are available for that filter, and the number icons beside each option within a filter indicate how many items are available for that option. For example, in the images above, there are four options under the _Collection_ filter, and there are 8098 items available with the Linguistic Genre _Narrative_.
+Within each filter, the number icons beside each option indicate how many items are available for that particular option. For example, in the images above, there are four options under the _Collection_ filter, and there are 8098 items available for the Linguistic Genre _Narrative_.
 
-Once you have selected all the applicable filters, select the ___Apply Filters___ button. The top of the results section will show the filters that are applied, and these can either be removed individually by clicking the __×__ next to that filter or in bulk with the ___Clear Filters___ button.
+Once you have selected all the filters you wish to apply, select the ___Apply Filters___ button, which appears on a floating pop-up box and also above the ___Reset Search___ button. The top of the results section will show the filters and selected options that were applied next to the _Filtering by:_ heading, and these can either be removed individually by clicking the __×__ next to that filter or in bulk with the ___Clear Filters___ button.
+
+If needed, you can further select or unselect options by repeating this process with the left panel filters, at which point the ___Apply Filters___ button will reappear.
 
 <br>
 

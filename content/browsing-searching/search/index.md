@@ -7,7 +7,11 @@ description: "Further refine your queries with word, phrase and pattern searches
 
 <br>
 
-Search allows you to further refine your query results for collections, objects and files, both through single or multiword queries, as well as specific patterns through regular expressions. The portal has both basic and advanced search capabilities.
+> This user guide uses 'portal' to refer to the interface across all of the available Oni portals (see [Available Portals](/getting-started/available-portals/) for more details).
+
+<br>
+
+The portal has both basic and advanced search capabilities. Search allows you to further refine what items are displayed through basic queries with one or more words, or advanced queries using regular expressions to find specific patterns.
 
 <br>
 
@@ -19,7 +23,7 @@ The basic search function can be found in the top left section of the portal hom
 
 <br>
 
-![Basic Search](/help_docs/basic-search.png "Basic Search")
+![Basic Search](/help_docs/basic-search.png)
  
 <br>
 
@@ -47,7 +51,7 @@ The advanced search function is accessed by selecting ___Advanced Search___ belo
 
 <br>
 
-![Advanced Search](/help_docs/advanced-search.png "Advanced Search")
+![Advanced Search](/help_docs/advanced-search.png)
 
 <br>
 

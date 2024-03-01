@@ -7,6 +7,10 @@ description: "TODO"
 
 <br>
 
+> This user guide uses 'portal' to refer to the interface across all of the available Oni portals (see [Available Portals](/getting-started/available-portals/) for more details).
+
+<br>
+
 ### Apply for Access to a Collection
 
 While viewing an object that has restricted access, you will see one of the following permission notes (TODO - better word?), depending on whether or not you are logged in:
@@ -15,11 +19,11 @@ While viewing an object that has restricted access, you will see one of the foll
 
 <br>
 
-![Restricted Access Object Example: The Land of the Hibiscus Blossom](/help_docs/object-the-land-of-the-hibiscus-blossom.png "Restricted Access Object Example: The Land of the Hibiscus Blossom")
+![Restricted Access Object Example: The Land of the Hibiscus Blossom](/help_docs/object-the-land-of-the-hibiscus-blossom.png)
 
 <br>
 
-Once you have logged in (see [Login](/accessing-data/login/) for further details), select ___apply for access___ and you will be directed to the LDaCA REMS in a new tab; this is a resource management system for collections listed in the Portal. Select ___Login___ and follow the CILogon prompts (see [Login](/accessing-data/login/) again).
+Once you have logged in (see [Login](/accessing-data/login/) for further details), select ___apply for access___ and you will be directed to the LDaCA REMS in a new tab; this is a resource management system for collections listed in the portal. Select ___Login___ and follow the CILogon prompts (see [Login](/accessing-data/login/) again).
 
 TODO more wording about the interface needed here. Also need description of top menu bar functions (Catalogue, Applications, About etc).
 

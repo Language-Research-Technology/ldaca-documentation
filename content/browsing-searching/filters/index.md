@@ -7,7 +7,11 @@ description: "Refine your results according to a set of major metadata categorie
 
 <br>
 
-Filters allow you to refine your results according to a set of major metadata categories and are accessed from the left panel of the portal home page. Select a filter in order to see the dropdown list of options; the number icons beside each filter indicate how many options are available. A total of five options are visible per page; to access more options, use the pagination icons, or the search bar if you are looking for a particular option.
+> This user guide uses 'portal' to refer to the interface across all of the available Oni portals (see [Available Portals](/getting-started/available-portals/) for more details).
+
+<br>
+
+Filters allow you to refine what items are displayed according to a set of major metadata categories and can be accessed from the left panel of the portal home page. Select a filter in order to see the dropdown list of options; the number icons beside each filter indicate how many options are available. A total of five options are visible per page; to access more options, use the pagination icons, or the search bar if you are looking for a particular option.
 
 <br>
 

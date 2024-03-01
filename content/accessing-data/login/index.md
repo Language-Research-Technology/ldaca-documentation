@@ -7,15 +7,19 @@ description: "TODO"
 
 <br>
 
+> This user guide uses 'portal' to refer to the interface across all of the available Oni portals (see [Available Portals](/getting-started/available-portals/) for more details).
+
+<br>
+
 Some collections require that you login either to access or apply for access to the data. This can be done by selecting ___Login___ from the top menu bar.
 
-![Portal Top Menu Options](/help_docs/topMenuOptions.png "Portal Top Menu Options")
+![Portal Top Menu Options](/help_docs/topMenuOptions.png)
 
 <br>
 
 You will be taken to the _LDaCAData_ logon page. Select ___Sign in with CILogon___.
 
-![LDaCA Logon](/help_docs/LDaCALogon.png "LDaCA Logon")
+![LDaCA Logon](/help_docs/LDaCALogon.png)
 
 <br>
 
@@ -31,13 +35,13 @@ For further details about CILogon and the identity providers it supports, see [C
 
 <br>
 
-![CI Logon](/help_docs/CILogon.png "CI Logon")
+![CI Logon](/help_docs/CILogon.png)
 
 TODO what does offline_access mean here?
 
 <br>
 
-Once your login is successful, you will be redirected back to the Portal page and the ___Login___ section of the top menu bar will instead display your account name.
+Once your login is successful, you will be redirected back to the portal page and the ___Login___ section of the top menu bar will instead display your account name.
 
 The dropdown on your account name has the options:
 - ___User Information___: View your user details and memberships to collections that have more specific access conditions.

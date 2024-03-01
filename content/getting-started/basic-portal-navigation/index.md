@@ -7,9 +7,13 @@ description: "TODO"
 
 <br>
 
+> This user guide uses 'portal' to refer to the interface across all of the available Oni portals (see [Available Portals](/getting-started/available-portals/) for more details).
+
+<br>
+
 ### Data and Page Structure
 
-Both the data and the webpages in the portals are structured in a heirarchy: Collections contain Objects and Objects contain Files. TODO how do notebooks fit in to this?
+Both the data and the webpages in the portal are structured in a heirarchy: Collections contain Objects and Objects contain Files. TODO how do notebooks fit in to this?
 
 Level | Description
 --- | ---
@@ -48,7 +52,7 @@ The top menu of the home page contains some of the main features of the portal:
 - ___Collections___: Filters the results section of the main panel so that only collections are shown (excluding objects, files and notebooks).
 - ___Browse___: Resets your results to the default settings. (TODO check - this seems to work exactly the same as the LDaCA logo unless I'm missing something, is it redundant?)
 - ___Login___: Takes you to the CILogon page where you can login to apply for access to collections or view your current access. See [Login](/accessing-data/login/) for more details.
-- ___Help___: Provides more general information about the infrastructure the Portal was built with, as well as the Oni API functionalities. It also links back to this user guide for easy reference.
+- ___Help___: Provides more general information about the infrastructure the portal was built with, as well as the Oni API functionalities. It also links back to this user guide for easy reference.
 
 <br>
 
@@ -60,7 +64,7 @@ The top menu of the home page contains some of the main features of the portal:
 
 <br>
 
-The left panel of the Portal home page allows you to refine your data query through the use of a search field and filters. Hovering over the information icon ![Information Icon](/help_docs/information.png) next to each filter will display tooltips related to that filter. See [Search](/browsing-searching/search/) and [Filters](/browsing-searching/filters/) for more details on how to use the search and filter functions.
+The left panel of the portal home page allows you to refine your data query through the use of a search field and filters. Hovering over the information icon ![Information Icon](/help_docs/information.png) next to each filter will display tooltips related to that filter. See [Search](/browsing-searching/search/) and [Filters](/browsing-searching/filters/) for more details on how to use the search and filter functions.
 
 <br>
 
@@ -72,7 +76,7 @@ The left panel of the Portal home page allows you to refine your data query thro
 
 <br>
 
-The main panel on the right of the home page allows you to view the top-level descriptions of collections, objects, files and notebooks in the Portal. The top row shows the total number of Index entries or items; this total will reduce as you apply filters and search queries. Below this is the option to ___Reset Search___, clearing the query of all filters and searches. The ___Sort by___ and ___Order by___ dropdown boxes can also be configured; see [Sort and Order](/browsing-searching/sort-and-order/) to learn more about their usage. Pagination options appear below this and are also accessible from the end of the page, with 10 results appearing on each page.
+The main panel on the right of the home page allows you to view the top-level descriptions of collections, objects, files and notebooks in the portal. The top row shows the total number of Index entries or items; this total will reduce as you apply filters and search queries. Below this is the option to ___Reset Search___, clearing the query of all filters and searches. The ___Sort by___ and ___Order by___ dropdown boxes can also be configured; see [Sort and Order](/browsing-searching/sort-and-order/) to learn more about their usage. Pagination options appear below this and are also accessible from the end of the page, with 10 results appearing on each page.
 
 <br>
 

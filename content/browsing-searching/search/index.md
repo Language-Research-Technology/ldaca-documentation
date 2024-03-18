@@ -57,7 +57,7 @@ The advanced search function is accessed by selecting ___Advanced Search___ belo
 
 ##### Search Fields
 
-By default, queries in Advanced Search are applied to all fields, however this can be refined in the top-left dropdown menu. The current fields of search available are _Name_, _Description_, _Language_ and _Text_. Multiple search fields can be added by selecting ___Add New Line___.
+By default, queries in Advanced Search are applied to all fields, however, this can be refined using the ___All Fields___ dropdown menu on the left. The current search fields available are _Name_, _Description_, _Language_ and _Text_. Multiple search fields can be added by selecting ___Add New Line___.
 
 To reset your search, select ___Clear___.
 
@@ -108,7 +108,7 @@ Some regular expression patterns can be used within the query string by surround
 
 ##### Show Query
 
-If you need to check your search command against what it is actually sent to the search engine, select ___Show Query___.
+If you need to check your search command against what it actually sent to the search engine, select ___Show Query___.
 
 For example, setting the search field to _Language_ and searching for `Danish` has the following query string:
 

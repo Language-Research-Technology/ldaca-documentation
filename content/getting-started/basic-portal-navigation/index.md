@@ -35,7 +35,11 @@ File | The various formats associated with an Object. For example, a single Obje
 
 ### Home Page
 
-There are three main sections of the Home Page in the portal: the top menu bar, the left panel and the main panel. Each of these are discussed more below.
+There are three main sections of the Home Page in the portal: the top menu bar, the left panel and the main panel. Each of these are discussed below.
+
+<br>
+
+![Home Page: 3 Sections](/help_docs/homePage_3sections.png)
 
 <br>
 

@@ -39,7 +39,7 @@ There are three main sections of the Home Page in the portal: the top menu bar, 
 
 <br>
 
-![Home Page: 3 Sections](/help_docs/homePage_3sections.png)
+![Home Page: Top Menu, Left Panel and Main Panel sections](/help_docs/homePage_3sections.png)
 
 <br>
 

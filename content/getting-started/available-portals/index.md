@@ -21,7 +21,7 @@ __Current Collections:__
 - Australian Corpus of English
 - Australian Radio Talkback
 - Braided Channels
-- International Corpus of English (Australian component)
+- International Corpus of English (AUS)
 - The La Trobe Corpus of Spoken Australian English
 - The speech of Australian adolescents: research data and recordings collected by A.G. Mitchell and Arthur Delbridge in 1959 and 1960
 
